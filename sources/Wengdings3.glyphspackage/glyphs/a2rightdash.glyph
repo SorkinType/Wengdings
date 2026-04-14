@@ -1,0 +1,19 @@
+{
+glyphname = a2rightdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = a2leftdash;
+scale = (-1,1);
+}
+);
+width = 1135;
+}
+);
+note = a2rightdash;
+unicode = 52;
+}

@@ -1,0 +1,102 @@
+{
+color = 5;
+glyphname = rhombtarget;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1855,733,l),
+(1010,1579,l),
+(165,733,l),
+(1010,-111,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(319,733,l),
+(1010,1426,l),
+(1702,733,l),
+(1010,42,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1500,733,l),
+(1010,1224,l),
+(521,733,l),
+(1010,244,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(668,733,l),
+(1010,1076,l),
+(1352,733,l),
+(1010,392,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+2 5 7 9 11 13 15 6 3 1
+PUSHW[ ]	/* 1 value pushed */
+628
+PUSHB[ ]	/* 8 values pushed */
+2 6 10 14 12 8 4 0
+PUSHW[ ]	/* 1 value pushed */
+628
+NPUSHB[ ]	/* 11 values pushed */
+32 3 4 6 8 10 12 14 6 0 2
+PUSHW[ ]	/* 1 value pushed */
+628
+PUSHB[ ]	/* 8 values pushed */
+3 5 13 15 11 9 7 1
+PUSHW[ ]	/* 2 values pushed */
+628 0
+MDAP[1]	/* MoveDirectAbsPt */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+SMD[ ]	/* SetMinimumDistance */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[11100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[01100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SCANTYPE[ ]	/* ScanType */";
+};
+width = 2020;
+}
+);
+note = rhombtarget;
+unicode = 179;
+}

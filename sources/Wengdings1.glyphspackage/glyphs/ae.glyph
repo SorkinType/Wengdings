@@ -1,0 +1,19 @@
+{
+glyphname = ae;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1590,0);
+ref = aring;
+scale = (-1,1);
+}
+);
+width = 1589;
+}
+);
+note = uni00E6;
+unicode = 230;
+}

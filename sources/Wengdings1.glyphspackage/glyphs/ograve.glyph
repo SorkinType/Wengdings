@@ -1,0 +1,19 @@
+{
+glyphname = ograve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1570,-173);
+ref = idieresis;
+}
+);
+width = 1660;
+}
+);
+note = uni00F2;
+unicode = 242;
+}

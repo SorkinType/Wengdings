@@ -1,0 +1,104 @@
+{
+glyphname = d;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(879,594,l),
+(879,741,l),
+(751,781,o),
+(655,906,o),
+(655,1042,cs),
+(655,1218,o),
+(789,1356,o),
+(969,1356,cs),
+(1149,1356,o),
+(1283,1220,o),
+(1283,1042,cs),
+(1283,908,o),
+(1189,783,o),
+(1059,741,c),
+(1059,594,l),
+(1769,594,l),
+(1769,728,l),
+(1260,728,l),
+(1359,806,o),
+(1417,931,o),
+(1417,1042,cs),
+(1417,1285,o),
+(1218,1480,o),
+(969,1480,cs),
+(718,1480,o),
+(521,1285,o),
+(521,1042,cs),
+(521,929,o),
+(582,801,o),
+(678,728,c),
+(169,728,l),
+(169,594,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1767,148,l),
+(1767,282,l),
+(169,282,l),
+(169,148,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+4 18 21 22 4 7
+NPUSHW[ ]	/* 10 values pushed */
+414 6 27 414 13 1 414 6 13 517
+NPUSHB[ ]	/* 9 values pushed */
+0 20 3 16 6 0 0 8 10
+PUSHW[ ]	/* 3 values pushed */
+313 30 315
+PUSHB[ ]	/* 3 values pushed */
+5 18 16
+NPUSHW[ ]	/* 11 values pushed */
+313 24 315 21 357 3 5 357 3 611 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1937;
+}
+);
+note = uni0064;
+unicode = 100;
+}

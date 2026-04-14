@@ -1,0 +1,59 @@
+{
+glyphname = barb1nw;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(216,250,l),
+(294,1121,l),
+(1269,152,l),
+(1363,246,l),
+(390,1217,l),
+(1264,1298,l),
+(1140,1422,l),
+(173,1338,l),
+(92,374,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+4 3 3 255 6 5 20 6 6 5 4 5 6 8 4 7 3 254 0 179 7 1 2 3 5 4 4 7
+PUSHW[ ]	/* 1 value pushed */
+274
+PUSHB[ ]	/* 5 values pushed */
+4 178 8 6 8
+MDAP[1]	/* MoveDirectAbsPt */
+SHPIX[ ]	/* ShiftZoneByPixel */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTCA[1]	/* SetFVectorToAxis */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 1540;
+}
+);
+note = barb1nw;
+unicode = (213,245);
+}

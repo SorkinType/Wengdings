@@ -1,0 +1,65 @@
+{
+glyphname = barb3sw;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1505,323,l),
+(692,380,l),
+(1514,1202,l),
+(1309,1407,l),
+(485,585,l),
+(430,1398,l),
+(117,1084,l),
+(173,69,l),
+(1191,10,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+4 3 3
+PUSHW[ ]	/* 1 value pushed */
+305
+NPUSHB[ ]	/* 13 values pushed */
+6 5 20 6 6 5 1 2 3 5 4 4 6
+PUSHW[ ]	/* 1 value pushed */
+298
+NPUSHB[ ]	/* 10 values pushed */
+4 226 0 4 5 6 8 4 7 3
+PUSHW[ ]	/* 1 value pushed */
+263
+PUSHB[ ]	/* 3 values pushed */
+7 225 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 1688;
+}
+);
+note = barb3sw;
+unicode = 223;
+}

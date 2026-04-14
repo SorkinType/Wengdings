@@ -1,0 +1,98 @@
+{
+glyphname = ucircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(435,312,o),
+(581,473,o),
+(716,661,cs),
+(844,837,o),
+(993,982,o),
+(1153,1051,c),
+(1123,1110,o),
+(1064,1195,o),
+(981,1195,cs),
+(844,1195,o),
+(661,959,o),
+(574,841,cs),
+(425,634,o),
+(286,518,o),
+(182,518,cs),
+(171,518,o),
+(160,518,o),
+(145,519,c),
+(160,438,o),
+(247,312,o),
+(335,312,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1008,350,o),
+(1088,422,o),
+(1106,504,c),
+(1009,504,o),
+(932,563,o),
+(772,784,cs),
+(628,984,o),
+(563,1134,o),
+(563,1244,c),
+(480,1244,o),
+(378,1155,o),
+(378,1082,cs),
+(378,1018,o),
+(458,852,o),
+(600,654,cs),
+(729,475,o),
+(839,350,o),
+(935,350,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 10 values pushed */
+0 10 18 23 29 5 25 5 7 32
+PUSHW[ ]	/* 7 values pushed */
+420 34 25 414 21 7 420
+PUSHB[ ]	/* 3 values pushed */
+21 34 15
+PUSHW[ ]	/* 1 value pushed */
+609
+NPUSHB[ ]	/* 11 values pushed */
+3 13 0 10 13 15 18 23 29 7 32
+PUSHW[ ]	/* 2 values pushed */
+608 5
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1301;
+}
+);
+note = uni00FB;
+unicode = 251;
+}

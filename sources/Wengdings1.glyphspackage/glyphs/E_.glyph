@@ -1,0 +1,495 @@
+{
+glyphname = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1091,425,o),
+(1282,468,o),
+(1407,563,c),
+(1508,563,l),
+(1558,616,o),
+(1583,712,o),
+(1583,849,cs),
+(1583,953,o),
+(1552,1066,o),
+(1510,1114,c),
+(1505,1116,o),
+(1454,1111,o),
+(1432,1111,cs),
+(1384,1111,o),
+(1366,1114,o),
+(1287,1176,cs),
+(1202,1244,o),
+(1146,1266,o),
+(1063,1266,cs),
+(968,1266,o),
+(891,1254,o),
+(833,1230,cs),
+(772,1205,o),
+(724,1192,o),
+(699,1185,cs),
+(682,1180,o),
+(666,1172,o),
+(655,1164,c),
+(615,1161,o),
+(574,1158,o),
+(534,1154,cs),
+(471,1147,o),
+(391,1138,o),
+(334,1131,cs),
+(221,1117,o),
+(173,1085,o),
+(173,1019,cs),
+(173,954,o),
+(218,924,o),
+(308,924,cs),
+(340,924,o),
+(405,928,o),
+(463,928,cs),
+(507,928,o),
+(550,925,o),
+(590,922,c),
+(573,899,o),
+(568,875,o),
+(568,842,cs),
+(568,798,o),
+(587,772,o),
+(627,754,cs),
+(639,748,o),
+(646,743,o),
+(646,733,cs),
+(646,718,o),
+(632,697,o),
+(632,671,cs),
+(632,624,o),
+(656,592,o),
+(700,575,c),
+(713,571,o),
+(714,569,o),
+(714,548,cs),
+(714,465,o),
+(793,425,o),
+(939,425,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(762,505,o),
+(755,540,o),
+(755,560,cs),
+(755,563,o),
+(755,566,o),
+(757,569,c),
+(766,569,ls),
+(842,569,o),
+(912,603,o),
+(963,624,cs),
+(985,633,o),
+(1014,646,o),
+(1041,660,c),
+(1050,651,o),
+(1057,638,o),
+(1058,625,c),
+(1043,604,o),
+(1007,575,o),
+(970,555,cs),
+(920,527,o),
+(891,505,o),
+(807,505,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(771,957,o),
+(731,973,o),
+(690,973,cs),
+(666,973,o),
+(652,972,o),
+(639,969,c),
+(584,972,o),
+(516,977,o),
+(463,977,cs),
+(403,977,o),
+(338,973,o),
+(308,973,cs),
+(242,973,o),
+(222,987,o),
+(222,1019,cs),
+(222,1053,o),
+(251,1067,o),
+(341,1081,cs),
+(396,1089,o),
+(472,1098,o),
+(541,1104,cs),
+(566,1107,o),
+(597,1109,o),
+(628,1111,c),
+(628,1104,ls),
+(628,1024,o),
+(684,979,o),
+(747,979,cs),
+(783,979,o),
+(842,987,o),
+(896,1000,c),
+(903,986,o),
+(912,973,o),
+(920,961,c),
+(918,961,l),
+(895,953,o),
+(852,935,o),
+(780,924,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(711,611,o),
+(677,627,o),
+(677,665,cs),
+(677,687,o),
+(682,708,o),
+(688,722,c),
+(702,716,o),
+(711,715,o),
+(725,715,cs),
+(757,715,o),
+(840,727,o),
+(899,747,cs),
+(963,767,o),
+(1022,796,o),
+(1066,824,c),
+(1077,828,o),
+(1087,831,o),
+(1097,831,cs),
+(1121,831,o),
+(1137,809,o),
+(1137,785,cs),
+(1137,774,o),
+(1133,762,o),
+(1127,754,c),
+(1101,734,o),
+(1010,687,o),
+(949,664,cs),
+(867,632,o),
+(807,611,o),
+(754,611,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(710,765,o),
+(689,773,o),
+(653,795,cs),
+(623,814,o),
+(617,819,o),
+(617,838,cs),
+(617,871,o),
+(621,903,o),
+(648,924,c),
+(657,925,o),
+(666,925,o),
+(673,925,cs),
+(725,925,o),
+(740,904,o),
+(740,868,c),
+(830,878,o),
+(880,896,o),
+(931,915,c),
+(965,926,o),
+(1003,953,o),
+(1033,948,c),
+(1048,947,o),
+(1069,939,o),
+(1069,912,cs),
+(1069,901,o),
+(1062,883,o),
+(1061,879,c),
+(1034,859,o),
+(982,825,o),
+(892,794,cs),
+(838,774,o),
+(768,765,o),
+(732,765,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(906,479,o),
+(935,490,o),
+(978,512,cs),
+(1033,541,o),
+(1080,578,o),
+(1101,609,c),
+(1104,616,o),
+(1105,627,o),
+(1105,636,cs),
+(1105,654,o),
+(1097,671,o),
+(1087,682,c),
+(1121,700,o),
+(1152,718,o),
+(1167,730,c),
+(1174,738,o),
+(1181,754,o),
+(1182,772,c),
+(1207,763,o),
+(1235,761,o),
+(1267,761,cs),
+(1289,761,o),
+(1312,763,o),
+(1329,767,c),
+(1329,816,l),
+(1313,812,o),
+(1284,810,o),
+(1267,810,cs),
+(1228,810,o),
+(1197,814,o),
+(1173,827,c),
+(1160,849,o),
+(1138,864,o),
+(1110,867,c),
+(1115,879,o),
+(1117,893,o),
+(1117,907,cs),
+(1117,954,o),
+(1087,994,o),
+(1030,994,cs),
+(1010,994,o),
+(989,987,o),
+(967,979,c),
+(960,988,o),
+(952,1000,o),
+(945,1012,c),
+(975,1020,o),
+(999,1031,o),
+(1008,1041,c),
+(971,1074,l),
+(954,1056,o),
+(807,1029,o),
+(750,1029,cs),
+(713,1029,o),
+(677,1052,o),
+(677,1103,cs),
+(677,1106,o),
+(677,1111,o),
+(677,1117,c),
+(678,1117,l),
+(678,1121,o),
+(696,1132,o),
+(711,1136,cs),
+(736,1143,o),
+(789,1158,o),
+(852,1185,cs),
+(903,1205,o),
+(975,1216,o),
+(1063,1216,cs),
+(1135,1216,o),
+(1179,1198,o),
+(1257,1136,cs),
+(1338,1071,o),
+(1370,1062,o),
+(1432,1062,cs),
+(1446,1062,o),
+(1468,1063,o),
+(1485,1064,c),
+(1512,1016,o),
+(1533,929,o),
+(1533,849,cs),
+(1533,738,o),
+(1517,660,o),
+(1485,613,c),
+(1391,613,l),
+(1290,527,o),
+(1116,472,o),
+(939,472,cs),
+(884,472,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1641,517,ls),
+(1731,517,o),
+(1756,712,o),
+(1756,839,cs),
+(1756,965,o),
+(1729,1163,o),
+(1641,1163,cs),
+(1537,1163,ls),
+(1521,1163,o),
+(1510,1150,o),
+(1510,1129,cs),
+(1510,1127,l),
+(1517,1135,o),
+(1521,1136,o),
+(1530,1136,cs),
+(1608,1136,o),
+(1628,964,o),
+(1628,839,cs),
+(1628,712,o),
+(1604,541,o),
+(1530,541,cs),
+(1521,541,o),
+(1515,545,o),
+(1510,555,c),
+(1510,545,ls),
+(1510,530,o),
+(1517,517,o),
+(1537,517,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 43 values pushed */
+33 34 59 3 35 32 61 57 51 68 72 67 48 24 25 96 80 81 94 3 100 107 108 83 111 93 118 1 117 86 87 126 3 123 91 125 3 7 8 3 89 9 67
+PUSHW[ ]	/* 1 value pushed */
+403
+NPUSHB[ ]	/* 35 values pushed */
+70 244 96 104 78 69 104 68 110 18 106 104 112 107 104 111 119 13 117 104 123 60 42 43 104 32 65 57 104 37 121 84 93 104 1
+PUSHW[ ]	/* 1 value pushed */
+453
+PUSHB[ ]	/* 5 values pushed */
+37 74 104 100 32
+PUSHW[ ]	/* 1 value pushed */
+565
+NPUSHB[ ]	/* 27 values pushed */
+48 104 49 104 25 104 63 130 100 104 75 125 104 9 89 104 9 123 111 112 75 78 68 37 32 9 35
+PUSHW[ ]	/* 1 value pushed */
+596
+NPUSHB[ ]	/* 64 values pushed */
+5 1 3 7 8 35 37 38 52 56 57 59 65 68 69 72 75 80 81 83 84 86 87 91 93 94 99 107 108 110 111 118 119 121 122 126 35 54 13 60 74 112 4 123 114 49 51 61 3 45 24 25 42 3 103 116 21 18 33 34 3 114 116 16
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 8 values pushed */
+123 45 116 29 0 54 116 40
+PUSHW[ ]	/* 1 value pushed */
+573
+PUSHB[ ]	/* 5 values pushed */
+123 116 11 21 11
+PUSHW[ ]	/* 2 values pushed */
+573 29
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[00101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1929;
+}
+);
+note = uni0045;
+unicode = 69;
+}

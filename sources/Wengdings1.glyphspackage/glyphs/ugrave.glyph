@@ -1,0 +1,54 @@
+{
+glyphname = ugrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(865,451,l),
+(865,1009,l),
+(122,1009,l),
+(122,451,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(215,915,l),
+(773,915,l),
+(773,545,l),
+(215,545,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+4 130 0 5 130 0
+PUSHW[ ]	/* 1 value pushed */
+356
+PUSHB[ ]	/* 7 values pushed */
+3 5 143 3 6 143 2
+PUSHW[ ]	/* 2 values pushed */
+488 3
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 987;
+}
+);
+note = uni00F9;
+unicode = 249;
+}

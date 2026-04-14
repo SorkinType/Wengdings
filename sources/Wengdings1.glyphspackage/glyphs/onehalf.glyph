@@ -1,0 +1,19 @@
+{
+glyphname = onehalf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = guillemetright;
+scale = (-1,1);
+}
+);
+width = 1825;
+}
+);
+note = uni00BD;
+unicode = 189;
+}

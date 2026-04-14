@@ -1,0 +1,44 @@
+{
+color = 5;
+glyphname = rhombus3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(743,740,l),
+(452,1031,l),
+(161,740,l),
+(452,449,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+2 0 1
+PUSHW[ ]	/* 1 value pushed */
+354
+PUSHB[ ]	/* 4 values pushed */
+3 3 1 2
+PUSHW[ ]	/* 2 values pushed */
+463 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 903;
+}
+);
+note = rhombus3;
+unicode = 173;
+}

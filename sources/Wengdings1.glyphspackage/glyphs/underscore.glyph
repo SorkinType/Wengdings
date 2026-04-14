@@ -1,0 +1,124 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1429,-395,o),
+(1722,-107,o),
+(1722,247,cs),
+(1722,477,o),
+(1600,685,o),
+(1399,802,c),
+(1511,876,o),
+(1597,968,o),
+(1655,1077,cs),
+(1768,1297,o),
+(1826,1329,o),
+(2031,1329,c),
+(2031,1480,l),
+(1964,1480,o),
+(1897,1475,o),
+(1831,1467,cs),
+(1697,1452,o),
+(1597,1339,o),
+(1538,1220,cs),
+(1508,1161,o),
+(1472,1106,o),
+(1429,1052,cs),
+(1345,945,o),
+(1216,889,o),
+(1080,889,cs),
+(1008,889,o),
+(944,900,o),
+(884,922,cs),
+(767,968,o),
+(691,1091,o),
+(624,1218,cs),
+(589,1282,o),
+(553,1337,o),
+(505,1383,cs),
+(411,1477,o),
+(278,1480,o),
+(129,1480,c),
+(129,1329,l),
+(337,1329,o),
+(394,1294,o),
+(507,1074,cs),
+(565,963,o),
+(649,874,o),
+(759,802,c),
+(560,685,o),
+(438,477,o),
+(438,247,cs),
+(438,-105,o),
+(728,-395,o),
+(1080,-395,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(830,-211,o),
+(622,-3,o),
+(622,247,cs),
+(622,497,o),
+(830,705,o),
+(1080,705,cs),
+(1330,705,o),
+(1538,497,o),
+(1538,247,cs),
+(1538,-3,o),
+(1330,-211,o),
+(1080,-211,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 17 values pushed */
+21 9 24 7 30 0 48 144 15 7 130 8 42 144 8 15 9
+PUSHW[ ]	/* 1 value pushed */
+617
+NPUSHB[ ]	/* 13 values pushed */
+36 30 0 45 51 144 39 45 144 33 33 39 23
+PUSHW[ ]	/* 2 values pushed */
+539 7
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 2159;
+}
+);
+note = uni005F;
+unicode = 95;
+}

@@ -1,0 +1,100 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(930,0,l),
+(1018,394,o),
+(1258,634,o),
+(1653,723,c),
+(1653,759,l),
+(1260,846,o),
+(1019,1088,o),
+(930,1480,c),
+(895,1480,l),
+(806,1086,o),
+(565,846,o),
+(172,757,c),
+(172,723,l),
+(563,634,o),
+(804,394,o),
+(895,0,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(813,490,o),
+(662,642,o),
+(459,740,c),
+(662,838,o),
+(815,990,o),
+(912,1192,c),
+(1010,990,o),
+(1161,838,o),
+(1364,740,c),
+(1161,643,o),
+(1010,492,o),
+(912,288,c)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 38 values pushed */
+4 20 11 24 20 20 27 24 36 20 43 24 6 4 22 11 27 20 22 27 27 36 22 43 27 6 8 22 4 9 27 15 24 20 10 130 9 4
+PUSHW[ ]	/* 1 value pushed */
+364
+PUSHB[ ]	/* 5 values pushed */
+0 9 0 130 19
+PUSHW[ ]	/* 1 value pushed */
+364
+NPUSHB[ ]	/* 20 values pushed */
+15 0 20 10 5 24 19 27 22 4 143 5 5 10 149 14 143 15 149 19
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDB[ ]	/* SetDeltaBaseInGState */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */";
+};
+width = 1825;
+}
+);
+note = uni00B2;
+unicode = 178;
+}

@@ -1,0 +1,89 @@
+{
+color = 5;
+glyphname = rhombbutton3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1848,740,l),
+(1011,1578,l),
+(173,740,l),
+(1011,-97,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,740,l),
+(1011,1427,l),
+(1697,740,l),
+(1011,54,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1444,740,l),
+(1011,1174,l),
+(579,740,l),
+(1011,307,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 8 values pushed */
+2 5 7 9 11 4 3 1
+PUSHW[ ]	/* 1 value pushed */
+628
+PUSHB[ ]	/* 6 values pushed */
+2 6 10 8 4 0
+PUSHW[ ]	/* 1 value pushed */
+628
+NPUSHB[ ]	/* 9 values pushed */
+32 3 4 6 8 10 4 0 2
+PUSHW[ ]	/* 1 value pushed */
+628
+PUSHB[ ]	/* 6 values pushed */
+3 5 11 9 7 1
+PUSHW[ ]	/* 2 values pushed */
+628 0
+MDAP[1]	/* MoveDirectAbsPt */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+SMD[ ]	/* SetMinimumDistance */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[11100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[01100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SCANTYPE[ ]	/* ScanType */";
+};
+width = 2020;
+}
+);
+note = rhombbutton3;
+unicode = 178;
+}

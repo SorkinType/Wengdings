@@ -1,0 +1,19 @@
+{
+glyphname = drawright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (542,0);
+ref = drawleft;
+scale = (-0.999,1);
+}
+);
+width = 543;
+}
+);
+note = drawright;
+unicode = 234;
+}

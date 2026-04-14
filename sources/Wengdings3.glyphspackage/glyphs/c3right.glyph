@@ -1,0 +1,19 @@
+{
+glyphname = c3right;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = c3left;
+scale = (-1,1);
+}
+);
+width = 1825;
+}
+);
+note = c3right;
+unicode = 146;
+}

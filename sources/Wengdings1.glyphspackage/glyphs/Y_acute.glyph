@@ -1,0 +1,19 @@
+{
+glyphname = Yacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (173,1653);
+ref = Ucircumflex;
+}
+);
+width = 1825;
+}
+);
+note = uni00DD;
+unicode = 221;
+}

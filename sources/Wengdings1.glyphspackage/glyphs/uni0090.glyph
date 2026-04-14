@@ -1,0 +1,107 @@
+{
+glyphname = uni0090;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(744,269,o),
+(635,363,o),
+(627,507,c),
+(768,507,l),
+(782,422,o),
+(834,377,o),
+(918,377,cs),
+(1024,377,o),
+(1091,460,o),
+(1091,589,cs),
+(1091,708,o),
+(1030,776,o),
+(915,776,cs),
+(829,776,o),
+(778,727,o),
+(760,654,c),
+(645,654,l),
+(663,1193,l),
+(1166,1193,l),
+(1166,1088,l),
+(775,1088,l),
+(764,801,l),
+(811,853,o),
+(872,880,o),
+(947,880,cs),
+(1105,880,o),
+(1220,762,o),
+(1220,586,cs),
+(1220,392,o),
+(1096,269,o),
+(909,269,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1323,0,o),
+(1653,330,o),
+(1653,740,cs),
+(1653,1148,o),
+(1323,1480,o),
+(913,1480,cs),
+(503,1480,o),
+(173,1148,o),
+(173,740,cs),
+(173,330,o),
+(503,0,o),
+(913,0,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 2 values pushed */
+28 572
+PUSHB[ ]	/* 4 values pushed */
+21 21 15 22
+NPUSHW[ ]	/* 12 values pushed */
+639 25 330 3 34 639 12 403 32 572 15 329
+PUSHB[ ]	/* 6 values pushed */
+3 128 9 0 22 21
+NPUSHW[ ]	/* 12 values pushed */
+640 26 569 12 456 0 24 569 30 638 18 448
+PUSHB[ ]	/* 4 values pushed */
+6 162 0 100
+SCVTCI[ ]	/* SetCVTCutIn */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01110]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = uni0090;
+unicode = 144;
+}

@@ -1,0 +1,103 @@
+{
+glyphname = threesuperior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(742,421,o),
+(1082,421,o),
+(1424,204,c),
+(1450,230,l),
+(1233,569,o),
+(1234,911,o),
+(1448,1251,c),
+(1423,1276,l),
+(1082,1060,o),
+(742,1061,o),
+(401,1276,c),
+(377,1252,l),
+(590,912,o),
+(591,572,o),
+(377,229,c),
+(402,204,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(665,634,o),
+(666,848,o),
+(592,1061,c),
+(805,986,o),
+(1020,986,o),
+(1232,1060,c),
+(1158,848,o),
+(1158,634,o),
+(1232,421,c),
+(1020,496,o),
+(806,496,o),
+(593,421,c)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+4 5 19 3 0 2 9 10 15 3 12 14 28 24 26 130 2 32 20 34 130 12 2 12 0
+PUSHW[ ]	/* 1 value pushed */
+380
+NPUSHB[ ]	/* 25 values pushed */
+14 4 5 10 3 9 7 0 14 15 3 19 32 28 30 143 17 24 20 22 143 7 7 17 9
+PUSHW[ ]	/* 2 values pushed */
+506 19
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = uni00B3;
+unicode = 179;
+}

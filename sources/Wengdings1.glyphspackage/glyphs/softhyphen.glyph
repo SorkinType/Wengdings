@@ -1,0 +1,49 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1070,361,l),
+(1435,216,l),
+(1294,583,l),
+(1653,740,l),
+(1294,897,l),
+(1435,1262,l),
+(1070,1119,l),
+(913,1480,l),
+(754,1119,l),
+(389,1262,l),
+(534,897,l),
+(173,740,l),
+(530,581,l),
+(389,216,l),
+(754,361,l),
+(913,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 37 values pushed */
+0 1 2 3 4 5 6 8 9 10 11 12 13 14 14 15 128 7 0 0 1 2 4 5 6 7 8 9 10 12 13 14 15 14 3 162 11
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = uni00AD;
+unicode = 173;
+}

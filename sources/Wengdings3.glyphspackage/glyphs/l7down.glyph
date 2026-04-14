@@ -1,0 +1,19 @@
+{
+glyphname = l7down;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1653,197);
+ref = l7left;
+}
+);
+width = 1825;
+}
+);
+note = l7down;
+unicode = 192;
+}

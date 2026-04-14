@@ -1,0 +1,68 @@
+{
+color = 5;
+glyphname = boxbutton1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1653,0,l),
+(1653,1480,l),
+(173,1480,l),
+(173,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(297,1356,l),
+(1529,1356,l),
+(1529,124,l),
+(297,124,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1066,587,l),
+(1066,893,l),
+(760,893,l),
+(760,587,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+0 208 4 3 208 5
+PUSHW[ ]	/* 5 values pushed */
+607 9 608 8 607
+PUSHB[ ]	/* 8 values pushed */
+4 0 0 168 4 1 168 7
+PUSHW[ ]	/* 6 values pushed */
+356 11 546 8 356 4
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = boxbutton1;
+unicode = 167;
+}

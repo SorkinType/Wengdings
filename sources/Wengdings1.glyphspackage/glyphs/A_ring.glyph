@@ -1,0 +1,19 @@
+{
+glyphname = Aring;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1826,1431);
+ref = Adieresis;
+}
+);
+width = 1825;
+}
+);
+note = uni00C5;
+unicode = 197;
+}

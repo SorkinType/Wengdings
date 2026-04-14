@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = interrobangsans;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(441,452,l),
+(441,478,ls),
+(441,649,o),
+(504,712,o),
+(599,783,cs),
+(770,911,o),
+(857,1008,o),
+(857,1203,cs),
+(857,1443,o),
+(690,1579,o),
+(417,1579,cs),
+(266,1579,o),
+(145,1544,o),
+(6,1477,c),
+(71,1354,l),
+(167,1404,o),
+(266,1445,o),
+(394,1445,cs),
+(565,1445,o),
+(690,1367,o),
+(690,1203,cs),
+(690,1088,o),
+(664,1021,o),
+(500,880,cs),
+(426,818,o),
+(385,776,o),
+(361,690,c),
+(411,690,l),
+(430,1354,l),
+(244,1354,l),
+(281,452,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(435,-11,o),
+(482,32,o),
+(482,121,cs),
+(482,212,o),
+(435,253,o),
+(359,253,cs),
+(283,253,o),
+(236,212,o),
+(236,121,cs),
+(236,32,o),
+(283,-11,o),
+(359,-11,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+4 4 7 9 11 12 14 17 27 31 9 15 1
+PUSHW[ ]	/* 3 values pushed */
+301 15 572
+NPUSHB[ ]	/* 19 values pushed */
+0 0 27 17 26 3 7 4 0 11 32 154 17 154 8 14 8 141 7
+PUSHW[ ]	/* 1 value pushed */
+463
+PUSHB[ ]	/* 4 values pushed */
+19 3 154 0
+PUSHW[ ]	/* 1 value pushed */
+264
+PUSHB[ ]	/* 6 values pushed */
+127 29 1 29 154 19
+PUSHW[ ]	/* 2 values pushed */
+480 11
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 864;
+}
+);
+note = interrobangsans;
+unicode = 95;
+}

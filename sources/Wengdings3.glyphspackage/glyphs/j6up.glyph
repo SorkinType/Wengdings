@@ -1,0 +1,19 @@
+{
+glyphname = j6up;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (-50,1406);
+ref = j6left;
+}
+);
+width = 1381;
+}
+);
+note = j6up;
+unicode = 183;
+}

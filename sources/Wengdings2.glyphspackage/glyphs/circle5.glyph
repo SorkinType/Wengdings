@@ -1,0 +1,42 @@
+{
+color = 5;
+glyphname = circle5;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(788,340,o),
+(967,519,o),
+(967,739,cs),
+(967,959,o),
+(788,1138,o),
+(568,1138,cs),
+(348,1138,o),
+(169,959,o),
+(169,739,cs),
+(169,519,o),
+(348,340,o),
+(568,340,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 6 values pushed */
+3 605 9 6 373 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1135;
+}
+);
+note = circle5;
+unicode = 151;
+}

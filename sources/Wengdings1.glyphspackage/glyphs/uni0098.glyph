@@ -1,0 +1,210 @@
+{
+glyphname = uni0098;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(577,-37,o),
+(732,94,o),
+(732,346,cs),
+(732,398,o),
+(728,461,o),
+(722,544,c),
+(757,411,o),
+(852,315,o),
+(980,315,cs),
+(1112,315,o),
+(1170,409,o),
+(1170,499,cs),
+(1170,593,o),
+(1120,657,o),
+(1058,704,c),
+(1004,678,l),
+(1016,653,o),
+(1020,626,o),
+(1020,601,cs),
+(1020,550,o),
+(986,497,o),
+(911,497,cs),
+(834,497,o),
+(773,553,o),
+(773,637,cs),
+(773,720,o),
+(822,787,o),
+(889,845,cs),
+(986,927,o),
+(1131,969,o),
+(1256,969,cs),
+(1478,969,o),
+(1686,805,o),
+(1686,479,cs),
+(1686,372,o),
+(1644,153,o),
+(1402,129,c),
+(1402,56,l),
+(1812,56,o),
+(1974,299,o),
+(1974,526,cs),
+(1974,880,o),
+(1682,1089,o),
+(1306,1089,cs),
+(1093,1089,o),
+(931,1012,o),
+(824,920,cs),
+(690,803,o),
+(659,686,o),
+(550,686,cs),
+(451,686,o),
+(386,751,o),
+(386,864,cs),
+(386,1010,o),
+(477,1077,o),
+(584,1077,cs),
+(617,1077,o),
+(655,1071,o),
+(670,1066,c),
+(700,1141,l),
+(642,1186,o),
+(565,1218,o),
+(459,1218,cs),
+(300,1218,o),
+(112,1127,o),
+(112,906,cs),
+(112,730,o),
+(261,601,o),
+(477,601,cs),
+(498,601,o),
+(524,603,o),
+(548,607,c),
+(433,534,o),
+(356,526,o),
+(289,449,cs),
+(235,388,o),
+(231,315,o),
+(231,252,cs),
+(231,222,o),
+(233,194,o),
+(233,169,cs),
+(233,145,o),
+(231,127,o),
+(225,113,cs),
+(200,54,o),
+(93,90,o),
+(93,29,cs),
+(93,-31,o),
+(244,-37,o),
+(315,-37,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(315,29,o),
+(358,40,o),
+(400,68,cs),
+(508,141,o),
+(479,331,o),
+(534,424,cs),
+(580,499,o),
+(628,544,o),
+(700,597,c),
+(646,605,l),
+(651,546,o),
+(655,486,o),
+(655,392,cs),
+(655,181,o),
+(582,25,o),
+(295,25,cs),
+(277,25,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 15 values pushed */
+15 16 66 3 43 7 54 55 3 24 49 72 37 63 49
+PUSHW[ ]	/* 1 value pushed */
+420
+PUSHB[ ]	/* 5 values pushed */
+60 43 130 29 24
+PUSHW[ ]	/* 4 values pushed */
+628 0 18 571
+NPUSHB[ ]	/* 9 values pushed */
+13 37 134 36 1 134 29 60 13
+PUSHW[ ]	/* 1 value pushed */
+380
+NPUSHB[ ]	/* 14 values pushed */
+0 0 36 36 40 57 54 52 46 66 7 74 72 21
+PUSHW[ ]	/* 1 value pushed */
+564
+NPUSHB[ ]	/* 13 values pushed */
+10 15 16 63 3 46 143 74 55 52 120 57 40
+PUSHW[ ]	/* 1 value pushed */
+564
+PUSHB[ ]	/* 6 values pushed */
+32 10 74 57 3 32
+PUSHW[ ]	/* 2 values pushed */
+618 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 2048;
+}
+);
+note = uni0098;
+unicode = 152;
+}

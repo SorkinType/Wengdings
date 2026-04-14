@@ -1,0 +1,85 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1109,0,o),
+(1291,82,o),
+(1433,224,cs),
+(1636,427,o),
+(1718,622,o),
+(1718,809,cs),
+(1718,997,o),
+(1643,1152,o),
+(1516,1280,cs),
+(1379,1416,o),
+(1218,1480,o),
+(1049,1480,cs),
+(814,1480,o),
+(632,1371,o),
+(458,1197,cs),
+(311,1050,o),
+(234,866,o),
+(234,680,cs),
+(234,303,o),
+(531,0,o),
+(912,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(590,80,o),
+(313,352,o),
+(313,687,cs),
+(313,1015,o),
+(582,1285,o),
+(912,1285,cs),
+(1067,1285,o),
+(1226,1223,o),
+(1341,1108,cs),
+(1459,990,o),
+(1517,835,o),
+(1517,682,cs),
+(1517,529,o),
+(1461,372,o),
+(1341,253,cs),
+(1228,142,o),
+(1078,80,o),
+(921,80,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 4 values pushed */
+18 130 12 24
+PUSHW[ ]	/* 1 value pushed */
+420
+PUSHB[ ]	/* 8 values pushed */
+3 128 12 0 27 143 15 21
+PUSHW[ ]	/* 4 values pushed */
+328 6 611 15
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1951;
+}
+);
+note = uni00A6;
+unicode = 166;
+}

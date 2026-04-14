@@ -1,0 +1,105 @@
+{
+glyphname = idieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(810,453,l),
+(1648,453,l),
+(1648,1027,l),
+(810,1027,l),
+(810,1373,l),
+(177,740,l),
+(810,107,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,740,l),
+(742,1208,l),
+(742,959,l),
+(1581,959,l),
+(1581,521,l),
+(742,521,l),
+(742,272,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+8 7 7
+PUSHW[ ]	/* 1 value pushed */
+634
+NPUSHB[ ]	/* 9 values pushed */
+4 3 20 4 4 3 13 7 7
+PUSHW[ ]	/* 1 value pushed */
+634
+NPUSHB[ ]	/* 23 values pushed */
+4 5 20 4 4 5 13 5 6 7 4 12 9 8 2 3 12 130 6 9 130 2 5
+PUSHW[ ]	/* 5 values pushed */
+332 6 567 2 332
+NPUSHB[ ]	/* 11 values pushed */
+3 7 4 12 6 3 143 8 10 143 8
+PUSHW[ ]	/* 1 value pushed */
+651
+PUSHB[ ]	/* 3 values pushed */
+1 162 4
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTCA[0]	/* SetFVectorToAxis */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+RTG[ ]	/* RoundToGrid */
+CALL[ ]	/* CallFunction */
+SFVTCA[0]	/* SetFVectorToAxis */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 1825;
+}
+);
+note = uni00EF;
+unicode = 239;
+}

@@ -1,0 +1,11 @@
+{
+glyphname = uni0008;
+layers = (
+{
+layerId = m01;
+width = 0;
+}
+);
+note = uni001D;
+unicode = (8,13,29);
+}

@@ -1,0 +1,32 @@
+{
+glyphname = triangle45basert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1629,0,l),
+(1629,1415,l),
+(214,0,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+1 236 0 0 2 91 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1801;
+}
+);
+note = triangle45basert;
+unicode = 121;
+}

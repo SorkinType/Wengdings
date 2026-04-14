@@ -1,0 +1,12 @@
+{
+color = 5;
+glyphname = noName00002;
+layers = (
+{
+layerId = m01;
+width = 1234;
+}
+);
+note = noName00002;
+unicode = 13;
+}

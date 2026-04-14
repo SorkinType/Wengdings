@@ -1,0 +1,22 @@
+{
+glyphname = headup;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(913,660,l),
+(1624,248,l),
+(913,1480,l),
+(202,248,l)
+);
+}
+);
+width = 1825;
+}
+);
+note = headup;
+unicode = 135;
+}

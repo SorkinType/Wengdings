@@ -1,0 +1,12 @@
+{
+color = 5;
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 2048;
+}
+);
+note = space;
+unicode = (9,32);
+}

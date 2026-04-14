@@ -1,0 +1,19 @@
+{
+glyphname = ecircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1653,-173);
+ref = ccedilla;
+}
+);
+width = 1825;
+}
+);
+note = uni00EA;
+unicode = 234;
+}

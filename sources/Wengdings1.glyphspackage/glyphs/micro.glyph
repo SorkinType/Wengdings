@@ -1,0 +1,68 @@
+{
+glyphname = micro;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1321,0,o),
+(1653,332,o),
+(1653,742,cs),
+(1653,1146,o),
+(1327,1480,o),
+(910,1480,cs),
+(505,1480,o),
+(173,1160,o),
+(173,742,cs),
+(173,332,o),
+(503,0,o),
+(910,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(663,657,l),
+(289,908,l),
+(747,908,l),
+(910,1403,l),
+(1077,908,l),
+(1535,908,l),
+(1161,657,l),
+(1315,199,l),
+(910,491,l),
+(509,199,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 14 values pushed */
+5 6 10 11 12 16 17 18 22 9 14 27 0 24
+PUSHW[ ]	/* 3 values pushed */
+457 1 658
+NPUSHB[ ]	/* 21 values pushed */
+14 0 0 1 4 5 6 10 11 12 16 17 18 22 23 24 27 15 8 162 20
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = uni00B5;
+unicode = 181;
+}

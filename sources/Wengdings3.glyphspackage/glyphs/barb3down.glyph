@@ -1,0 +1,19 @@
+{
+glyphname = barb3down;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1653,-173);
+ref = barb3left;
+}
+);
+width = 1825;
+}
+);
+note = barb3down;
+unicode = (220,252);
+}

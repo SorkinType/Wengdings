@@ -1,0 +1,19 @@
+{
+glyphname = Uacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1653,-173);
+ref = multiply;
+}
+);
+width = 1825;
+}
+);
+note = uni00DA;
+unicode = 218;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1382,1480);
+ref = C;
+}
+);
+width = 1381;
+}
+);
+note = uni0044;
+unicode = 68;
+}

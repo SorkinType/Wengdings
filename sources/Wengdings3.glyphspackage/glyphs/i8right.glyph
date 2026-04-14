@@ -1,0 +1,19 @@
+{
+glyphname = i8right;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = i8left;
+scale = (-1,1);
+}
+);
+width = 1825;
+}
+);
+note = i8right;
+unicode = 180;
+}

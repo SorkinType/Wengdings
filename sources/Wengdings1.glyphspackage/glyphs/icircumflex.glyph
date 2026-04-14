@@ -1,0 +1,19 @@
+{
+glyphname = icircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1788,0);
+ref = iacute;
+scale = (-1,1);
+}
+);
+width = 1787;
+}
+);
+note = uni00EE;
+unicode = 238;
+}

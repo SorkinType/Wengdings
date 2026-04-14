@@ -1,0 +1,75 @@
+{
+color = 5;
+glyphname = ring7;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1315,10,o),
+(1641,336,o),
+(1641,739,cs),
+(1641,1142,o),
+(1315,1468,o),
+(912,1468,cs),
+(509,1468,o),
+(183,1142,o),
+(183,739,cs),
+(183,336,o),
+(509,10,o),
+(912,10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(767,476,o),
+(649,594,o),
+(649,739,cs),
+(649,884,o),
+(767,1002,o),
+(912,1002,cs),
+(1057,1002,o),
+(1175,884,o),
+(1175,739,cs),
+(1175,594,o),
+(1057,476,o),
+(912,476,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 18 values pushed */
+31 15 16 21 63 15 48 21 79 15 64 21 95 15 80 21 8 21
+PUSHW[ ]	/* 4 values pushed */
+606 3 15 606
+NPUSHB[ ]	/* 22 values pushed */
+3 123 9 0 31 12 16 18 63 12 48 18 79 12 64 18 95 12 80 18 8 12
+PUSHW[ ]	/* 4 values pushed */
+553 0 18 553
+PUSHB[ ]	/* 3 values pushed */
+6 140 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = ring7;
+unicode = 156;
+}

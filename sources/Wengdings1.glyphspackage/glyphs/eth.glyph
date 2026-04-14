@@ -1,0 +1,19 @@
+{
+glyphname = eth;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = idieresis;
+scale = (-1,1);
+}
+);
+width = 1825;
+}
+);
+note = uni00F0;
+unicode = 240;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Idieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1616,-431);
+ref = Iacute;
+}
+);
+width = 2048;
+}
+);
+note = uni00CF;
+unicode = 207;
+}

@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = vineleafse;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2047,0);
+ref = vineleafsw;
+scale = (-1,1);
+}
+);
+width = 2048;
+}
+);
+note = vineleafse;
+unicode = 104;
+}

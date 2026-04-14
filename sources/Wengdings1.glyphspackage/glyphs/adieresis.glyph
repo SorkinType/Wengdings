@@ -1,0 +1,19 @@
+{
+glyphname = adieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1590,0);
+ref = atilde;
+scale = (-1,1);
+}
+);
+width = 1589;
+}
+);
+note = uni00E4;
+unicode = 228;
+}

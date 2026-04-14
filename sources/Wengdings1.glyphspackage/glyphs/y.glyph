@@ -1,0 +1,96 @@
+{
+glyphname = y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(2124,0,l),
+(2124,1480,l),
+(46,1480,l),
+(46,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(200,1329,l),
+(1970,1329,l),
+(1970,151,l),
+(200,151,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1085,919,l),
+(1631,388,l),
+(1744,495,l),
+(1085,1143,l),
+(426,495,l),
+(539,388,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+10 11 11
+PUSHW[ ]	/* 1 value pushed */
+643
+NPUSHB[ ]	/* 9 values pushed */
+8 9 20 8 8 9 12 11 11
+PUSHW[ ]	/* 1 value pushed */
+643
+NPUSHB[ ]	/* 15 values pushed */
+8 13 20 8 8 13 8 9 10 11 12 13 6 4 7
+PUSHW[ ]	/* 4 values pushed */
+414 1 4 414
+NPUSHB[ ]	/* 13 values pushed */
+1 163 0 0 8 9 10 11 12 13 6 5 4
+PUSHW[ ]	/* 7 values pushed */
+313 0 5 313 3 540 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+RTG[ ]	/* RoundToGrid */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 2171;
+}
+);
+note = uni0079;
+unicode = 121;
+}

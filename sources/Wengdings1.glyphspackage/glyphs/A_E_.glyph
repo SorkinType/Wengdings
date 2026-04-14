@@ -1,0 +1,19 @@
+{
+glyphname = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1826,1431);
+ref = Atilde;
+}
+);
+width = 1825;
+}
+);
+note = uni00C6;
+unicode = 198;
+}

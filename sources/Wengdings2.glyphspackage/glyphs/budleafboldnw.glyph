@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = budleafboldnw;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2049,0);
+ref = budleafboldne;
+scale = (-1,1);
+}
+);
+width = 2048;
+}
+);
+note = budleafboldnw;
+unicode = 98;
+}

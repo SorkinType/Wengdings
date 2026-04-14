@@ -1,0 +1,173 @@
+{
+glyphname = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1526,-429,l),
+(1443,-332,o),
+(1401,-232,o),
+(1383,-108,c),
+(1648,81,o),
+(1789,348,o),
+(1789,648,cs),
+(1789,856,o),
+(1737,1036,o),
+(1656,1129,c),
+(1536,1129,l),
+(1481,1086,o),
+(1404,993,o),
+(1368,922,c),
+(1368,1094,ls),
+(1368,1231,o),
+(1331,1353,o),
+(1237,1480,c),
+(1115,1480,l),
+(1038,1405,o),
+(925,1265,o),
+(887,1191,c),
+(871,1281,o),
+(818,1408,o),
+(769,1480,c),
+(646,1480,l),
+(572,1408,o),
+(464,1263,o),
+(427,1191,c),
+(390,1325,o),
+(350,1420,o),
+(311,1480,c),
+(201,1480,l),
+(263,1316,o),
+(294,1186,o),
+(294,1088,cs),
+(294,0,l),
+(439,0,l),
+(439,957,l),
+(452,1043,o),
+(619,1310,o),
+(696,1375,c),
+(740,1276,o),
+(758,1173,o),
+(758,1071,cs),
+(758,0,l),
+(903,0,l),
+(903,957,l),
+(916,1043,o),
+(1084,1310,o),
+(1161,1375,c),
+(1199,1313,o),
+(1222,1203,o),
+(1222,1103,cs),
+(1222,79,ls),
+(1222,29,o),
+(1225,-16,o),
+(1229,-60,c),
+(1134,-116,o),
+(1037,-152,o),
+(933,-168,c),
+(933,-300,l),
+(1037,-284,o),
+(1142,-247,o),
+(1250,-189,c),
+(1275,-305,o),
+(1316,-386,o),
+(1371,-429,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(1368,703,l),
+(1399,782,o),
+(1509,956,o),
+(1578,1024,c),
+(1621,935,o),
+(1643,810,o),
+(1643,648,cs),
+(1643,411,o),
+(1544,194,o),
+(1368,42,c)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 29 values pushed */
+2 0 5 46 0 0 2 5 8 10 11 13 15 19 21 22 27 37 42 44 46 49 51 56 58 20 16 32 35
+PUSHW[ ]	/* 1 value pushed */
+571
+PUSHB[ ]	/* 3 values pushed */
+34 34 16
+PUSHW[ ]	/* 1 value pushed */
+617
+NPUSHB[ ]	/* 24 values pushed */
+30 21 22 27 29 30 56 6 54 51 42 15 39 34 49 10 46 1 16 19 32 37 4 39
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 6 values pushed */
+34 203 51 13 11 45
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 4 values pushed */
+46 8 6 1
+PUSHW[ ]	/* 4 values pushed */
+313 2 54 313
+PUSHB[ ]	/* 6 values pushed */
+24 2 46 51 3 24
+PUSHW[ ]	/* 2 values pushed */
+530 5
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MIAP[1]	/* MoveIndirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1911;
+}
+);
+note = uni0063;
+unicode = 99;
+}

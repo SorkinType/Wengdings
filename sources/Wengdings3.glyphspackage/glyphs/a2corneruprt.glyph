@@ -1,0 +1,19 @@
+{
+glyphname = a2corneruprt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1826,1480);
+ref = a2cornerdwnleft;
+}
+);
+width = 1825;
+}
+);
+note = a2corneruprt;
+unicode = 59;
+}

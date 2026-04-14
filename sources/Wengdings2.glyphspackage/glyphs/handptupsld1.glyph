@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = handptupsld1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (-251,1729);
+ref = handptlftsld1;
+}
+);
+width = 1047;
+}
+);
+note = handptupsld1;
+unicode = 72;
+}

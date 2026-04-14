@@ -1,0 +1,107 @@
+{
+glyphname = thorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1656,0,l),
+(1656,1480,l),
+(176,1480,l),
+(176,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(299,1356,l),
+(1532,1356,l),
+(1532,124,l),
+(299,124,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(912,401,l),
+(1128,826,o),
+(1294,1042,o),
+(1773,1518,c),
+(1721,1565,l),
+(1227,1182,o),
+(996,942,o),
+(771,578,c),
+(815,554,l),
+(735,751,o),
+(646,881,o),
+(590,881,cs),
+(522,881,o),
+(420,820,o),
+(388,759,c),
+(477,748,o),
+(626,501,o),
+(703,237,c)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 15 values pushed */
+23 6 5 2 9 12 15 21 23 26 6 30 31 8 29
+PUSHW[ ]	/* 3 values pushed */
+414 30 414
+PUSHB[ ]	/* 3 values pushed */
+2 128 31
+PUSHW[ ]	/* 3 values pushed */
+414 5 389
+NPUSHB[ ]	/* 13 values pushed */
+1 0 5 6 0 12 15 21 26 29 5 32 31
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 3 values pushed */
+1 3 32
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 3 values pushed */
+0 162 6
+PUSHW[ ]	/* 2 values pushed */
+611 1
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = uni00FE;
+unicode = 254;
+}

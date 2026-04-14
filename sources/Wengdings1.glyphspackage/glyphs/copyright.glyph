@@ -1,0 +1,45 @@
+{
+glyphname = copyright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(913,574,l),
+(1571,340,l),
+(1050,814,l),
+(913,1480,l),
+(774,814,l),
+(255,340,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+0 1 2 4 4 3
+PUSHW[ ]	/* 1 value pushed */
+505
+PUSHB[ ]	/* 7 values pushed */
+5 0 2 3 4 4 5
+PUSHW[ ]	/* 2 values pushed */
+385 1
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = uni00A9;
+unicode = 169;
+}

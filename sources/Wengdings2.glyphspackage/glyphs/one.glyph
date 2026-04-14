@@ -1,0 +1,114 @@
+{
+color = 5;
+glyphname = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(994,357,l),
+(994,1126,l),
+(865,1126,l),
+(636,961,l),
+(697,873,l),
+(784,936,o),
+(832,972,o),
+(845,984,cs),
+(856,995,o),
+(866,1004,o),
+(875,1013,c),
+(872,963,o),
+(868,909,o),
+(868,853,cs),
+(868,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1323,0,o),
+(1653,330,o),
+(1653,740,cs),
+(1653,1150,o),
+(1323,1480,o),
+(913,1480,cs),
+(503,1480,o),
+(173,1150,o),
+(173,740,cs),
+(173,330,o),
+(503,0,o),
+(913,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(559,101,o),
+(274,386,o),
+(274,740,cs),
+(274,1094,o),
+(559,1379,o),
+(913,1379,cs),
+(1267,1379,o),
+(1552,1094,o),
+(1552,740,cs),
+(1552,386,o),
+(1267,101,o),
+(913,101,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+41 124 42
+PUSHW[ ]	/* 3 values pushed */
+577 24 550
+NPUSHB[ ]	/* 9 values pushed */
+21 200 3 123 9 29 32 124 31
+PUSHW[ ]	/* 1 value pushed */
+581
+NPUSHB[ ]	/* 10 values pushed */
+15 200 9 0 18 127 6 140 0 29
+PUSHW[ ]	/* 1 value pushed */
+552
+PUSHB[ ]	/* 6 values pushed */
+25 245 37 36 41 31
+PUSHW[ ]	/* 3 values pushed */
+552 36 576
+PUSHB[ ]	/* 3 values pushed */
+12 127 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SRP0[ ]	/* SetRefPoint0 */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[11100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = one;
+unicode = 106;
+}

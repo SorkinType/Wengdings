@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = semicircleleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(913,1480,l),
+(475,1455,o),
+(173,1153,o),
+(173,740,cs),
+(173,324,o),
+(474,23,o),
+(913,0,c)
+);
+}
+);
+width = 1085;
+}
+);
+note = semicircleleft;
+unicode = 186;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = headleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(993,740,l),
+(1405,1451,l),
+(173,740,l),
+(1405,29,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 9 values pushed */
+3 1 2 237 0 0 3 2 0
+PUSHW[ ]	/* 2 values pushed */
+295 1
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1627;
+}
+);
+note = headleft;
+unicode = 133;
+}

@@ -1,0 +1,115 @@
+{
+glyphname = uni0080;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1109,341,o),
+(1202,474,o),
+(1202,742,cs),
+(1202,1006,o),
+(1109,1139,o),
+(922,1139,cs),
+(737,1139,o),
+(644,1006,o),
+(644,742,cs),
+(644,474,o),
+(737,341,o),
+(922,341,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(820,445,o),
+(769,544,o),
+(769,740,cs),
+(769,936,o),
+(820,1035,o),
+(922,1035,cs),
+(1024,1035,o),
+(1076,938,o),
+(1076,742,cs),
+(1076,544,o),
+(1024,445,o),
+(922,445,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1323,0,o),
+(1653,330,o),
+(1653,740,cs),
+(1653,1150,o),
+(1323,1480,o),
+(913,1480,cs),
+(503,1480,o),
+(173,1150,o),
+(173,740,cs),
+(173,330,o),
+(503,0,o),
+(913,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(559,101,o),
+(274,386,o),
+(274,740,cs),
+(274,1094,o),
+(559,1379,o),
+(913,1379,cs),
+(1267,1379,o),
+(1552,1094,o),
+(1552,740,cs),
+(1552,386,o),
+(1267,101,o),
+(913,101,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 20 values pushed */
+42 130 30 127 21 130 3 128 9 36 130 24 127 15 130 9 0 39 144 33
+PUSHW[ ]	/* 1 value pushed */
+585
+PUSHB[ ]	/* 8 values pushed */
+18 143 6 162 0 45 144 27
+PUSHW[ ]	/* 1 value pushed */
+585
+PUSHB[ ]	/* 4 values pushed */
+12 143 0 100
+SCVTCI[ ]	/* SetCVTCutIn */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = uni0080;
+unicode = 128;
+}

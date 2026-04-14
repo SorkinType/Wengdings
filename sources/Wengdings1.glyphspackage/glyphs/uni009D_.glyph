@@ -1,0 +1,19 @@
+{
+glyphname = uni009D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2049,0);
+ref = uni009C;
+scale = (-1,1);
+}
+);
+width = 2048;
+}
+);
+note = uni009D;
+unicode = 157;
+}

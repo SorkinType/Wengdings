@@ -1,0 +1,19 @@
+{
+glyphname = acircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1653,-173);
+ref = germandbls;
+}
+);
+width = 1825;
+}
+);
+note = uni00E2;
+unicode = 226;
+}

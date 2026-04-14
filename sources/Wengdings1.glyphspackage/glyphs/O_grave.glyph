@@ -1,0 +1,19 @@
+{
+glyphname = Ograve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1616,-431);
+ref = Ntilde;
+}
+);
+width = 2048;
+}
+);
+note = uni00D2;
+unicode = 210;
+}

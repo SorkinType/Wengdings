@@ -1,0 +1,91 @@
+{
+color = 5;
+glyphname = sun;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1377,-37,o),
+(1725,311,o),
+(1725,739,cs),
+(1725,1167,o),
+(1377,1515,o),
+(949,1515,cs),
+(521,1515,o),
+(173,1167,o),
+(173,739,cs),
+(173,311,o),
+(521,-37,o),
+(949,-37,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(575,62,o),
+(272,365,o),
+(272,739,cs),
+(272,1113,o),
+(575,1416,o),
+(949,1416,cs),
+(1323,1416,o),
+(1626,1113,o),
+(1626,739,cs),
+(1626,365,o),
+(1323,62,o),
+(949,62,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1034,583,o),
+(1105,654,o),
+(1105,739,cs),
+(1105,826,o),
+(1034,895,o),
+(949,895,cs),
+(862,895,o),
+(793,826,o),
+(793,739,cs),
+(793,654,o),
+(862,583,o),
+(949,583,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 9 values pushed */
+18 208 6 12 208 0 6 231 25
+PUSHW[ ]	/* 1 value pushed */
+301
+NPUSHB[ ]	/* 15 values pushed */
+24 173 0 21 168 3 15 168 9 189 27 154 24 172 3
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1899;
+}
+);
+note = sun;
+unicode = 128;
+}

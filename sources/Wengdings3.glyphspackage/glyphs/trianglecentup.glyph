@@ -1,0 +1,20 @@
+{
+glyphname = trianglecentup;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1538,0,l),
+(913,1083,l),
+(288,0,l)
+);
+}
+);
+width = 1825;
+}
+);
+unicode = 129;
+}

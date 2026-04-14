@@ -1,0 +1,101 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1219,-395,l),
+(1219,837,ls),
+(1219,1195,o),
+(1380,1413,o),
+(1679,1413,cs),
+(1984,1413,o),
+(2187,1190,o),
+(2187,906,cs),
+(2187,614,o),
+(1969,422,o),
+(1674,422,c),
+(1674,355,l),
+(2014,355,o),
+(2257,569,o),
+(2257,911,cs),
+(2257,1244,o),
+(2021,1480,o),
+(1677,1480,cs),
+(1431,1480,o),
+(1264,1363,o),
+(1183,1097,c),
+(1103,1363,o),
+(936,1480,o),
+(692,1480,cs),
+(348,1480,o),
+(112,1244,o),
+(112,911,cs),
+(112,569,o),
+(355,355,o),
+(695,355,c),
+(695,422,l),
+(400,422,o),
+(182,614,o),
+(182,906,cs),
+(182,1190,o),
+(385,1413,o),
+(687,1413,cs),
+(989,1413,o),
+(1150,1195,o),
+(1150,837,cs),
+(1150,-395,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 8 values pushed */
+12 30 30 12 6 20 24 35
+PUSHW[ ]	/* 8 values pushed */
+571 6 414 17 20 478 17 617
+NPUSHB[ ]	/* 9 values pushed */
+0 11 20 21 30 4 32 12 9
+PUSHW[ ]	/* 1 value pushed */
+313
+PUSHB[ ]	/* 3 values pushed */
+14 29 32
+PUSHW[ ]	/* 8 values pushed */
+313 27 616 41 313 0 616 14
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 2368;
+}
+);
+note = uni005E;
+unicode = 94;
+}

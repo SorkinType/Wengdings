@@ -1,0 +1,19 @@
+{
+glyphname = b2se;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1444,0);
+ref = b2sw;
+scale = (-1,1);
+}
+);
+width = 1444;
+}
+);
+note = b2se;
+unicode = 109;
+}

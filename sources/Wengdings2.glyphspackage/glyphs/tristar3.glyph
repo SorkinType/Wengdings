@@ -1,0 +1,46 @@
+{
+color = 5;
+glyphname = tristar3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1117,865,l),
+(913,1480,l),
+(710,865,l),
+(260,353,l),
+(913,509,l),
+(1565,351,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+1 3 4 5 4 2
+PUSHW[ ]	/* 1 value pushed */
+620
+PUSHB[ ]	/* 7 values pushed */
+0 1 2 3 5 4 4
+PUSHW[ ]	/* 2 values pushed */
+619 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = tristar3;
+unicode = 230;
+}

@@ -1,0 +1,84 @@
+{
+color = 5;
+glyphname = seveninv;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1093,1081,l),
+(629,1081,l),
+(629,1193,l),
+(1211,1193,l),
+(1211,1070,l),
+(895,287,l),
+(741,287,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1323,0,o),
+(1653,330,o),
+(1653,740,cs),
+(1653,1148,o),
+(1323,1480,o),
+(913,1480,cs),
+(503,1480,o),
+(173,1148,o),
+(173,740,cs),
+(173,330,o),
+(503,0,o),
+(913,0,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 5 values pushed */
+2 15 19 17 12
+PUSHW[ ]	/* 6 values pushed */
+330 9 19 581 17 330
+PUSHB[ ]	/* 5 values pushed */
+3 123 9 0 13
+PUSHW[ ]	/* 5 values pushed */
+583 12 401 18 262
+PUSHB[ ]	/* 3 values pushed */
+0 64 19
+PUSHW[ ]	/* 4 values pushed */
+562 96 15 333
+PUSHB[ ]	/* 3 values pushed */
+6 140 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+RUTG[ ]	/* RoundUpToGrid */
+SMD[ ]	/* SetMinimumDistance */
+MIRP[01110]	/* MoveIndirectRelPt */
+RTG[ ]	/* RoundToGrid */
+SMD[ ]	/* SetMinimumDistance */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01110]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00110]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SCANTYPE[ ]	/* ScanType */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = seveninv;
+unicode = 123;
+}

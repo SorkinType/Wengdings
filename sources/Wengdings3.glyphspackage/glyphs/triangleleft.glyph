@@ -1,0 +1,37 @@
+{
+glyphname = triangleleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1629,1595,l),
+(149,740,l),
+(1629,-114,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+1 2
+PUSHW[ ]	/* 1 value pushed */
+289
+PUSHB[ ]	/* 4 values pushed */
+0 0 91 1
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1801;
+}
+);
+note = triangleleft;
+unicode = 116;
+}

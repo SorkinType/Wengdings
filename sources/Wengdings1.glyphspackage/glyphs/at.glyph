@@ -1,0 +1,19 @@
+{
+glyphname = at;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1863,0);
+ref = question;
+scale = (-1,1);
+}
+);
+width = 1863;
+}
+);
+note = uni0040;
+unicode = 64;
+}

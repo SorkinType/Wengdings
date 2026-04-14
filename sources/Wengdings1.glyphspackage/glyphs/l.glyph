@@ -1,0 +1,41 @@
+{
+glyphname = l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1096,146,o),
+(1360,409,o),
+(1360,739,cs),
+(1360,1068,o),
+(1096,1331,o),
+(767,1331,cs),
+(438,1331,o),
+(175,1068,o),
+(175,739,cs),
+(175,409,o),
+(438,146,o),
+(767,146,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 6 values pushed */
+3 652 9 6 507 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1529;
+}
+);
+note = uni006C;
+unicode = 108;
+}

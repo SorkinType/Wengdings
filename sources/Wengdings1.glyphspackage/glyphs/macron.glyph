@@ -1,0 +1,130 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(933,0,l),
+(1025,465,l),
+(1421,202,l),
+(1452,229,l),
+(1189,626,l),
+(1654,717,l),
+(1654,759,l),
+(1189,854,l),
+(1452,1247,l),
+(1421,1278,l),
+(1025,1015,l),
+(933,1480,l),
+(891,1480,l),
+(799,1015,l),
+(403,1278,l),
+(372,1247,l),
+(635,854,l),
+(170,759,l),
+(170,717,l),
+(635,626,l),
+(372,229,l),
+(403,202,l),
+(799,465,l),
+(891,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(868,698,l),
+(799,507,l),
+(460,290,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(273,740,l),
+(853,740,l),
+(670,656,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(910,679,l),
+(994,496,l),
+(910,103,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(681,854,l),
+(460,1190,l),
+(868,782,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(956,698,l),
+(1143,626,l),
+(1364,290,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(830,984,l),
+(910,1377,l),
+(910,801,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1154,820,l),
+(1551,740,l),
+(971,740,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1025,969,l),
+(1364,1190,l),
+(956,782,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 98 values pushed */
+25 33 1 31 33 19 39 2 19 34 16 39 2 20 33 0 1 2 3 4 5 6 8 9 10 11 12 13 14 16 17 18 19 20 22 23 24 25 26 27 28 29 30 31 33 34 35 36 37 38 39 36 15 128 7 0 27 38 0 1 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 28 29 30 31 32 33 34 35 36 37 38 36 3 162 11
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */";
+};
+width = 1825;
+}
+);
+note = uni00AF;
+unicode = 175;
+}

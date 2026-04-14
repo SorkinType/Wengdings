@@ -1,0 +1,19 @@
+{
+glyphname = b2down;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1356,-173);
+ref = b2left;
+}
+);
+width = 1232;
+}
+);
+note = b2down;
+unicode = 105;
+}

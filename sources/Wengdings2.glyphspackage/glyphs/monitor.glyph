@@ -1,0 +1,106 @@
+{
+color = 5;
+glyphname = monitor;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1509,0,l),
+(1509,58,ls),
+(1509,91,o),
+(1480,118,o),
+(1444,118,cs),
+(1214,118,l),
+(1214,220,l),
+(1917,220,ls),
+(1965,220,o),
+(2005,261,o),
+(2005,310,cs),
+(2005,1393,ls),
+(2005,1440,o),
+(1965,1480,o),
+(1917,1480,cs),
+(329,1480,ls),
+(280,1480,o),
+(241,1440,o),
+(241,1393,cs),
+(241,310,ls),
+(241,261,o),
+(280,220,o),
+(329,220,cs),
+(1030,220,l),
+(1030,118,l),
+(801,118,ls),
+(764,118,o),
+(735,91,o),
+(735,58,cs),
+(735,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(385,448,o),
+(356,479,o),
+(356,516,cs),
+(356,1285,ls),
+(356,1323,o),
+(385,1354,o),
+(422,1354,cs),
+(1823,1354,ls),
+(1859,1354,o),
+(1888,1323,o),
+(1888,1285,cs),
+(1888,516,ls),
+(1888,479,o),
+(1859,448,o),
+(1823,448,cs),
+(422,448,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(1852,312,o),
+(1841,322,o),
+(1841,337,cs),
+(1841,350,o),
+(1852,361,o),
+(1866,361,cs),
+(1879,361,o),
+(1890,350,o),
+(1890,337,cs),
+(1890,322,o),
+(1879,312,o),
+(1866,312,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 15 values pushed */
+25 124 4 16 124 4 123 13 0 29 116 0 20 116 9
+PUSHW[ ]	/* 2 values pushed */
+555 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 2246;
+}
+);
+note = monitor;
+unicode = 53;
+}

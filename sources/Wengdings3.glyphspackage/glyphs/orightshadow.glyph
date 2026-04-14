@@ -1,0 +1,19 @@
+{
+glyphname = orightshadow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1931,0);
+ref = oleftshadow;
+scale = (-1,1);
+}
+);
+width = 1930;
+}
+);
+note = orightshadow;
+unicode = 91;
+}

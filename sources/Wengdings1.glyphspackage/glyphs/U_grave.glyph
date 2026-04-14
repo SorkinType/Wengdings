@@ -1,0 +1,19 @@
+{
+glyphname = Ugrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (173,1653);
+ref = multiply;
+}
+);
+width = 1825;
+}
+);
+note = uni00D9;
+unicode = 217;
+}

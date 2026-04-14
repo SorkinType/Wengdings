@@ -1,0 +1,83 @@
+{
+color = 5;
+glyphname = lozengebutton;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1317,749,l),
+(765,1579,l),
+(213,749,l),
+(765,-87,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,749,l),
+(765,1409,l),
+(1202,749,l),
+(765,83,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(956,748,l),
+(765,1035,l),
+(574,748,l),
+(765,457,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 8 values pushed */
+2 5 7 9 11 4 3 1
+PUSHW[ ]	/* 1 value pushed */
+561
+PUSHB[ ]	/* 6 values pushed */
+2 6 10 8 4 0
+PUSHW[ ]	/* 1 value pushed */
+561
+NPUSHB[ ]	/* 18 values pushed */
+32 3 4 6 8 10 4 0 2 139 3 5 11 9 7 1 139 0
+MDAP[1]	/* MoveDirectAbsPt */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+SMD[ ]	/* SetMinimumDistance */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[11101]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SCANTYPE[ ]	/* ScanType */";
+};
+width = 1529;
+}
+);
+note = lozengebutton;
+unicode = 185;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = a3down;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1430,-173);
+ref = a3left;
+}
+);
+width = 1381;
+}
+);
+note = a3down;
+unicode = 160;
+}

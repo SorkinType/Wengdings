@@ -1,0 +1,44 @@
+{
+color = 5;
+glyphname = lozenge3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(576,740,l),
+(370,1031,l),
+(165,740,l),
+(370,449,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 5 values pushed */
+1 309 2 0 309
+PUSHB[ ]	/* 8 values pushed */
+32 3 2 146 3 1 146 0
+MDAP[1]	/* MoveDirectAbsPt */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+SMD[ ]	/* SetMinimumDistance */
+RTHG[ ]	/* RoundToHalfGrid */
+MIRP[11101]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 740;
+}
+);
+note = lozenge3;
+unicode = 182;
+}

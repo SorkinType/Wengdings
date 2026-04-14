@@ -1,0 +1,19 @@
+{
+glyphname = a2parlldown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1652,-173);
+ref = a2parllleft;
+}
+);
+width = 1825;
+}
+);
+note = a2parlldown;
+unicode = 75;
+}

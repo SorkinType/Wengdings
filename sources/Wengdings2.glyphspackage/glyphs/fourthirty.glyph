@@ -1,0 +1,358 @@
+{
+color = 5;
+glyphname = fourthirty;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1322,0,o),
+(1653,333,o),
+(1653,740,cs),
+(1653,1147,o),
+(1322,1480,o),
+(913,1480,cs),
+(504,1480,o),
+(172,1147,o),
+(172,740,cs),
+(172,333,o),
+(504,0,o),
+(913,0,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(438,407,o),
+(454,429,o),
+(454,450,cs),
+(454,475,o),
+(435,493,o),
+(413,493,cs),
+(386,493,o),
+(368,474,o),
+(368,450,cs),
+(368,426,o),
+(389,407,o),
+(414,407,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(644,196,o),
+(666,214,o),
+(666,239,cs),
+(666,265,o),
+(647,280,o),
+(622,280,cs),
+(601,280,o),
+(581,265,o),
+(581,239,cs),
+(581,217,o),
+(598,196,o),
+(622,196,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(357,697,o),
+(376,715,o),
+(376,740,cs),
+(376,764,o),
+(357,783,o),
+(335,783,cs),
+(311,783,o),
+(292,764,o),
+(292,740,cs),
+(292,715,o),
+(311,697,o),
+(335,697,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1227,196,o),
+(1244,217,o),
+(1244,239,cs),
+(1244,265,o),
+(1224,280,o),
+(1203,280,cs),
+(1178,280,o),
+(1159,263,o),
+(1159,239,cs),
+(1159,214,o),
+(1181,196,o),
+(1203,196,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(433,987,o),
+(454,1005,o),
+(454,1030,cs),
+(454,1052,o),
+(435,1073,o),
+(413,1073,cs),
+(389,1073,o),
+(368,1054,o),
+(368,1030,cs),
+(368,1008,o),
+(386,987,o),
+(413,987,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(967,128,l),
+(967,640,l),
+(972,642,l),
+(1221,499,l),
+(1275,591,l),
+(1026,734,l),
+(1027,735,o),
+(1027,737,o),
+(1027,738,cs),
+(1027,802,o),
+(977,853,o),
+(913,853,cs),
+(850,853,o),
+(799,802,o),
+(799,738,cs),
+(799,696,o),
+(825,658,o),
+(859,640,c),
+(859,128,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(544,71,o),
+(243,371,o),
+(243,740,cs),
+(243,1109,o),
+(544,1409,o),
+(913,1409,cs),
+(1283,1409,o),
+(1582,1109,o),
+(1582,740,cs),
+(1582,371,o),
+(1283,71,o),
+(913,71,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(890,697,o),
+(871,715,o),
+(871,738,cs),
+(871,764,o),
+(891,781,o),
+(913,781,cs),
+(937,781,o),
+(956,764,o),
+(956,738,cs),
+(956,715,o),
+(937,697,o),
+(913,697,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1436,407,o),
+(1457,425,o),
+(1457,450,cs),
+(1457,469,o),
+(1444,493,o),
+(1414,493,cs),
+(1392,493,o),
+(1371,475,o),
+(1371,450,cs),
+(1371,429,o),
+(1387,407,o),
+(1412,407,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(639,1198,o),
+(666,1212,o),
+(666,1241,cs),
+(666,1266,o),
+(644,1284,o),
+(622,1284,cs),
+(598,1284,o),
+(581,1263,o),
+(581,1242,cs),
+(581,1215,o),
+(601,1198,o),
+(622,1198,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1515,697,o),
+(1534,715,o),
+(1534,740,cs),
+(1534,764,o),
+(1515,783,o),
+(1490,783,cs),
+(1468,783,o),
+(1449,764,o),
+(1449,740,cs),
+(1449,715,o),
+(1468,697,o),
+(1490,697,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(937,1276,o),
+(956,1295,o),
+(956,1317,cs),
+(956,1341,o),
+(937,1361,o),
+(913,1361,cs),
+(888,1361,o),
+(871,1341,o),
+(871,1317,cs),
+(871,1295,o),
+(888,1276,o),
+(913,1276,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1224,1198,o),
+(1244,1215,o),
+(1244,1241,cs),
+(1244,1266,o),
+(1222,1284,o),
+(1203,1284,cs),
+(1181,1284,o),
+(1159,1266,o),
+(1159,1241,cs),
+(1159,1220,o),
+(1175,1198,o),
+(1203,1198,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1439,987,o),
+(1457,1005,o),
+(1457,1030,cs),
+(1457,1054,o),
+(1436,1073,o),
+(1414,1073,cs),
+(1387,1073,o),
+(1371,1051,o),
+(1371,1030,cs),
+(1371,1005,o),
+(1392,987,o),
+(1414,987,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 126 values pushed */
+25 40 46 58 59 60 61 66 67 69 74 76 77 82 83 84 85 14 50 31 24 25 34 35 36 37 38 39 40 54 55 56 57 62 63 64 65 70 71 72 73 78 79 80 81 25 44 18 75 68 50 200 51 12 124 0 27 28 29 30 33 46 49 7 31 208 44 18 124 6 51 0 173 45 200 44 173 6 0 34 35 36 37 38 41 58 59 61 62 63 64 65 74 75 76 77 78 79 81 20 49 40 25 28 29 54 55 56 66 67 68 69 70 71 72 73 82 83 84 85 18 26 43 80 60 49
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 3 values pushed */
+48 57 43
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 6 values pushed */
+44 24 30 33 3 40
+PUSHW[ ]	/* 1 value pushed */
+579
+NPUSHB[ ]	/* 11 values pushed */
+26 15 116 9 21 116 3 48 3 172 53
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 6 values pushed */
+50 26 44 50 172 9
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = fourthirty;
+unicode = 138;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = headright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1455,740,l),
+(223,1451,l),
+(635,740,l),
+(223,29,l)
+);
+}
+);
+width = 1627;
+}
+);
+note = headright;
+unicode = 134;
+}

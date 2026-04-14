@@ -1,0 +1,19 @@
+{
+glyphname = ocircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (90,1653);
+ref = oacute;
+}
+);
+width = 1660;
+}
+);
+note = uni00F4;
+unicode = 244;
+}

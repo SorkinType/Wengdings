@@ -1,0 +1,19 @@
+{
+glyphname = barb1ne;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1540,0);
+ref = barb1nw;
+scale = (-0.999,1);
+}
+);
+width = 1540;
+}
+);
+note = barb1ne;
+unicode = (214,246);
+}

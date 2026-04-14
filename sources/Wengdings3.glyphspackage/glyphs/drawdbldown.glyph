@@ -1,0 +1,19 @@
+{
+glyphname = drawdbldown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1209,850);
+ref = drawdblleft;
+}
+);
+width = 1234;
+}
+);
+note = drawdbldown;
+unicode = 240;
+}

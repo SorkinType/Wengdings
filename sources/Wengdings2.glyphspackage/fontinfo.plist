@@ -1,0 +1,199 @@
+{
+.appVersion = "3523";
+.formatVersion = 3;
+customParameters = (
+{
+name = "meta Table";
+value = (
+{
+data = Zsym;
+tag = dlng;
+},
+{
+data = Zsym;
+tag = slng;
+}
+);
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = panose;
+value = (
+5,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+}
+);
+date = "2026-03-22 04:33:52 +0000";
+familyName = "Whendings 2";
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1579;
+},
+{
+name = typoDescender;
+value = 420;
+},
+{
+name = typoLineGap;
+value = 49;
+},
+{
+name = winAscent;
+value = 1727;
+},
+{
+name = winDescent;
+value = 432;
+},
+{
+name = hheaAscender;
+value = 1727;
+},
+{
+name = hheaDescender;
+value = -432;
+},
+{
+name = strikeoutPosition;
+value = 800;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -200;
+},
+{
+name = underlineThickness;
+value = 100;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (364,1480);
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 1579;
+},
+{
+},
+{
+pos = -394.75;
+},
+{
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 25;
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = 33;
+GSOffsetMakeStroke = 1;
+GSOffsetPosition = 1;
+GSOffsetVertical = 33;
+};
+}
+);
+instances = (
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = Wengdings2;
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = ENG;
+value = "Wengdings 2";
+}
+);
+},
+{
+key = styleNames;
+values = (
+{
+language = ENG;
+value = Regular;
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = ENG;
+value = "Whendings 2";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = ENG;
+value = STC;
+}
+);
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 2048;
+versionMajor = 0;
+versionMinor = 1;
+}

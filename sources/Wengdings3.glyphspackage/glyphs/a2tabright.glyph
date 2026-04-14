@@ -1,0 +1,19 @@
+{
+glyphname = a2tabright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1826,0);
+ref = a2tableft;
+scale = (-1,1);
+}
+);
+width = 1825;
+}
+);
+note = a2tabright;
+unicode = 42;
+}

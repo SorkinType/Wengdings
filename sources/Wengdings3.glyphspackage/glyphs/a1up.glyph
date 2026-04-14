@@ -1,0 +1,19 @@
+{
+glyphname = a1up;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (-296,1653);
+ref = a1left;
+}
+);
+width = 888;
+}
+);
+note = a1up;
+unicode = 155;
+}

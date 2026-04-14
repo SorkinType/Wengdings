@@ -1,0 +1,92 @@
+{
+color = 5;
+glyphname = ringbutton1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1315,10,o),
+(1641,336,o),
+(1641,739,cs),
+(1641,1142,o),
+(1315,1468,o),
+(912,1468,cs),
+(509,1468,o),
+(183,1142,o),
+(183,739,cs),
+(183,336,o),
+(509,10,o),
+(912,10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(587,152,o),
+(325,414,o),
+(325,739,cs),
+(325,1064,o),
+(587,1326,o),
+(912,1326,cs),
+(1237,1326,o),
+(1499,1064,o),
+(1499,739,cs),
+(1499,414,o),
+(1237,152,o),
+(912,152,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(816,565,o),
+(738,643,o),
+(738,739,cs),
+(738,835,o),
+(816,913,o),
+(912,913,cs),
+(1008,913,o),
+(1086,835,o),
+(1086,739,cs),
+(1086,643,o),
+(1008,565,o),
+(912,565,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+15 208 9 21 208 3
+PUSHW[ ]	/* 5 values pushed */
+607 27 608 33 607
+PUSHB[ ]	/* 8 values pushed */
+9 0 12 168 0 18 168 6
+PUSHW[ ]	/* 6 values pushed */
+356 30 546 24 356 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = ringbutton1;
+unicode = 157;
+}

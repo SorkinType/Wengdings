@@ -1,0 +1,45 @@
+{
+color = 5;
+glyphname = pentagon1cent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1331,168,l),
+(1589,963,l),
+(913,1453,l),
+(237,963,l),
+(495,168,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 3 values pushed */
+2 0 1
+PUSHW[ ]	/* 1 value pushed */
+273
+PUSHB[ ]	/* 6 values pushed */
+4 1 3 4 3 2
+PUSHW[ ]	/* 2 values pushed */
+274 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = pentagon1cent;
+unicode = 192;
+}

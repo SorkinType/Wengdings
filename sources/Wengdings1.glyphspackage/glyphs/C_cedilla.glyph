@@ -1,0 +1,19 @@
+{
+glyphname = Ccedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (358,1653);
+ref = Atilde;
+}
+);
+width = 2146;
+}
+);
+note = uni00C7;
+unicode = 199;
+}

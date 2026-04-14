@@ -1,0 +1,19 @@
+{
+glyphname = Odieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2566,0);
+ref = Otilde;
+scale = (-1,1);
+}
+);
+width = 2566;
+}
+);
+note = uni00D6;
+unicode = 214;
+}

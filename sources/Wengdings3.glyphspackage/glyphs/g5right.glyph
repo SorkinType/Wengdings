@@ -1,0 +1,19 @@
+{
+glyphname = g5right;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1824,0);
+ref = g5left;
+scale = (-0.999,1);
+}
+);
+width = 1825;
+}
+);
+note = g5right;
+unicode = 176;
+}

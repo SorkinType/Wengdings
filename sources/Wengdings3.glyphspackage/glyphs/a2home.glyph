@@ -1,0 +1,68 @@
+{
+glyphname = a2home;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1393,261,l),
+(681,972,l),
+(795,1085,l),
+(290,1199,l),
+(405,697,l),
+(518,811,l),
+(1229,97,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(790,1266,l),
+(790,1479,l),
+(241,1479,l),
+(241,1266,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 31 values pushed */
+7 6 6 255 9 8 20 9 9 8 4 4 6 7 9 10 5 8 0 254 1 131 8 0 8 7 5 6 9 3 10
+PUSHW[ ]	/* 1 value pushed */
+257
+PUSHB[ ]	/* 5 values pushed */
+3 213 7 225 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 1677;
+}
+);
+note = a2home;
+unicode = 45;
+}

@@ -1,0 +1,68 @@
+{
+color = 5;
+glyphname = octasterisk1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(968,0,l),
+(952,644,l),
+(1396,176,l),
+(1476,256,l),
+(1008,700,l),
+(1652,684,l),
+(1652,796,l),
+(1008,780,l),
+(1476,1224,l),
+(1396,1304,l),
+(952,836,l),
+(968,1480,l),
+(856,1480,l),
+(872,836,l),
+(428,1304,l),
+(348,1224,l),
+(816,780,l),
+(172,796,l),
+(172,684,l),
+(816,700,l),
+(348,256,l),
+(428,176,l),
+(872,644,l),
+(856,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 51 values pushed */
+9 12 1 2 3 6 7 8 9 12 13 14 15 18 19 20 14 17 4 173 23 200 22 173 17 0 3 6 0 1 2 3 6 7 8 9 12 13 14 19 20 21 14 22 11 172 16 127 17 172 22
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = octasterisk1;
+unicode = 224;
+}

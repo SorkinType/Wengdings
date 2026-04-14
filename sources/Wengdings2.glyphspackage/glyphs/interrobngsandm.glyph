@@ -1,0 +1,106 @@
+{
+color = 5;
+glyphname = interrobngsandm;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(588,535,l),
+(588,587,ls),
+(588,648,o),
+(614,680,o),
+(732,763,cs),
+(883,868,o),
+(948,980,o),
+(948,1136,cs),
+(948,1379,o),
+(789,1513,o),
+(501,1513,cs),
+(332,1513,o),
+(179,1465,o),
+(41,1370,c),
+(154,1163,l),
+(253,1237,o),
+(354,1273,o),
+(465,1273,cs),
+(593,1273,o),
+(654,1226,o),
+(654,1128,cs),
+(654,1067,o),
+(628,1012,o),
+(566,943,cs),
+(526,899,o),
+(481,845,o),
+(439,790,c),
+(512,790,l),
+(542,1169,l),
+(244,1169,l),
+(305,535,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(578,-12,o),
+(648,60,o),
+(648,181,cs),
+(648,305,o),
+(580,375,o),
+(460,375,cs),
+(337,375,o),
+(268,305,o),
+(268,181,cs),
+(268,60,o),
+(340,-12,o),
+(460,-12,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+4 4 7 8 10 11 13 16 26 30 9 14 1
+PUSHW[ ]	/* 3 values pushed */
+306 14 572
+NPUSHB[ ]	/* 55 values pushed */
+0 0 25 3 7 26 30 3 16 4 0 16 156 13 8 13 146 10 3 156 0 158 15 28 31 28 47 28 63 28 79 28 95 28 127 28 207 28 223 28 239 28 10 127 28 159 28 175 28 191 28 239 28 5 28
+PUSHW[ ]	/* 4 values pushed */
+546 18 485 10
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1018;
+}
+);
+note = interrobngsandm;
+unicode = 96;
+}

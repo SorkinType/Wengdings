@@ -1,0 +1,99 @@
+{
+glyphname = enter;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1110,1277,l),
+(1717,691,l),
+(1829,807,l),
+(1110,1480,l),
+(391,807,l),
+(503,691,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(2039,1348,l),
+(2039,1480,l),
+(1505,1480,l),
+(1505,1348,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(715,1348,l),
+(715,1480,l),
+(181,1480,l),
+(181,1348,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 35 values pushed */
+9 4 4 255 7 8 20 7 7 8 5 4 4 255 7 6 20 7 7 6 12 7 2 4 5 6 8 11 5 9 0 254 1 1 2
+PUSHW[ ]	/* 1 value pushed */
+272
+PUSHB[ ]	/* 7 values pushed */
+9 7 4 11 6 5 3
+PUSHW[ ]	/* 1 value pushed */
+271
+PUSHB[ ]	/* 4 values pushed */
+0 9 8 11
+PUSHW[ ]	/* 4 values pushed */
+271 10 270 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDAP[0]	/* MoveDirectAbsPt */
+RTG[ ]	/* RoundToGrid */
+CALL[ ]	/* CallFunction */
+SFVTPV[ ]	/* SetFVectorToPVector */
+RDTG[ ]	/* RoundDownToGrid */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[00100]	/* MoveDirectRelPt */";
+};
+width = 2220;
+}
+);
+note = enter;
+unicode = 83;
+}

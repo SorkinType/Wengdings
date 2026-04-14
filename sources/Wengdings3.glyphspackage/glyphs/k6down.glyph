@@ -1,0 +1,19 @@
+{
+glyphname = k6down;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1332,-74);
+ref = k6left;
+}
+);
+width = 1184;
+}
+);
+note = k6down;
+unicode = 188;
+}

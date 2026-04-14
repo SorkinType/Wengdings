@@ -1,0 +1,357 @@
+{
+color = 5;
+glyphname = onethirty;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1322,0,o),
+(1653,333,o),
+(1653,740,cs),
+(1653,1147,o),
+(1322,1480,o),
+(913,1480,cs),
+(505,1480,o),
+(172,1147,o),
+(172,740,cs),
+(172,333,o),
+(505,0,o),
+(913,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(438,407,o),
+(454,429,o),
+(454,450,cs),
+(454,475,o),
+(435,492,o),
+(413,492,cs),
+(386,492,o),
+(369,473,o),
+(369,450,cs),
+(369,426,o),
+(389,407,o),
+(415,407,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(644,197,o),
+(666,214,o),
+(666,240,cs),
+(666,265,o),
+(647,281,o),
+(622,281,cs),
+(601,281,o),
+(581,265,o),
+(581,240,cs),
+(581,217,o),
+(598,197,o),
+(622,197,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(358,697,o),
+(377,715,o),
+(377,740,cs),
+(377,764,o),
+(358,783,o),
+(335,783,cs),
+(311,783,o),
+(292,764,o),
+(292,740,cs),
+(292,715,o),
+(311,697,o),
+(335,697,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1227,197,o),
+(1245,217,o),
+(1245,240,cs),
+(1245,265,o),
+(1224,281,o),
+(1204,281,cs),
+(1178,281,o),
+(1159,263,o),
+(1159,240,cs),
+(1159,214,o),
+(1181,197,o),
+(1204,197,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(434,987,o),
+(454,1005,o),
+(454,1030,cs),
+(454,1052,o),
+(435,1073,o),
+(413,1073,cs),
+(389,1073,o),
+(369,1054,o),
+(369,1030,cs),
+(369,1008,o),
+(386,987,o),
+(413,987,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(967,128,l),
+(967,640,l),
+(1002,659,o),
+(1027,696,o),
+(1027,738,cs),
+(1027,762,o),
+(1021,781,o),
+(1010,798,c),
+(1155,1047,l),
+(1060,1101,l),
+(918,852,l),
+(852,852,o),
+(800,805,o),
+(800,738,cs),
+(800,696,o),
+(825,659,o),
+(860,640,c),
+(860,128,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(544,71,o),
+(243,371,o),
+(243,740,cs),
+(243,1109,o),
+(544,1409,o),
+(913,1409,cs),
+(1283,1409,o),
+(1582,1109,o),
+(1582,740,cs),
+(1582,371,o),
+(1283,71,o),
+(913,71,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(890,696,o),
+(871,716,o),
+(871,738,cs),
+(871,764,o),
+(891,783,o),
+(913,783,cs),
+(936,783,o),
+(956,764,o),
+(956,738,cs),
+(956,715,o),
+(937,696,o),
+(913,696,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1436,407,o),
+(1456,424,o),
+(1456,450,cs),
+(1456,469,o),
+(1444,492,o),
+(1414,492,cs),
+(1392,492,o),
+(1371,475,o),
+(1371,450,cs),
+(1371,429,o),
+(1387,407,o),
+(1412,407,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(639,1198,o),
+(666,1212,o),
+(666,1240,cs),
+(666,1265,o),
+(644,1283,o),
+(622,1283,cs),
+(598,1283,o),
+(581,1262,o),
+(581,1242,cs),
+(581,1215,o),
+(601,1198,o),
+(622,1198,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1516,697,o),
+(1535,715,o),
+(1535,740,cs),
+(1535,764,o),
+(1516,783,o),
+(1491,783,cs),
+(1468,783,o),
+(1449,764,o),
+(1449,740,cs),
+(1449,715,o),
+(1468,697,o),
+(1491,697,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(937,1275,o),
+(956,1294,o),
+(956,1317,cs),
+(956,1341,o),
+(937,1361,o),
+(913,1361,cs),
+(888,1361,o),
+(871,1341,o),
+(871,1317,cs),
+(871,1294,o),
+(888,1275,o),
+(913,1275,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1224,1198,o),
+(1245,1215,o),
+(1245,1240,cs),
+(1245,1265,o),
+(1223,1283,o),
+(1204,1283,cs),
+(1181,1283,o),
+(1159,1265,o),
+(1159,1240,cs),
+(1159,1220,o),
+(1175,1198,o),
+(1204,1198,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1439,987,o),
+(1456,1005,o),
+(1456,1030,cs),
+(1456,1054,o),
+(1436,1073,o),
+(1414,1073,cs),
+(1387,1073,o),
+(1371,1051,o),
+(1371,1030,cs),
+(1371,1005,o),
+(1392,987,o),
+(1414,987,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 123 values pushed */
+25 38 44 32 33 34 35 36 56 57 58 59 64 65 67 72 74 75 80 81 82 83 19 48 30 24 25 27 28 38 52 53 54 55 60 61 62 63 68 69 70 71 76 77 78 79 21 42 18 73 66 48 200 49 18 124 6 12 124 0 29 37 44 47 4 30 208 42 49 0 173 43 200 42 173 6 0 32 33 34 35 36 39 56 57 59 60 61 62 63 72 73 74 75 76 77 79 20 47 38 25 28 52 53 54 64 65 66 67 68 69 70 71 80 81 82 83 17 26 41 78 58 47
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 3 values pushed */
+46 55 41
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 6 values pushed */
+42 24 29 31 3 26
+PUSHW[ ]	/* 1 value pushed */
+579
+NPUSHB[ ]	/* 12 values pushed */
+38 15 116 9 21 116 3 46 38 3 172 51
+PUSHW[ ]	/* 1 value pushed */
+579
+PUSHB[ ]	/* 5 values pushed */
+48 42 48 172 9
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = onethirty;
+unicode = 135;
+}

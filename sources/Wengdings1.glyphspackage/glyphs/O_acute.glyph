@@ -1,0 +1,19 @@
+{
+glyphname = Oacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (432,1616);
+ref = Ntilde;
+}
+);
+width = 2048;
+}
+);
+note = uni00D3;
+unicode = 211;
+}

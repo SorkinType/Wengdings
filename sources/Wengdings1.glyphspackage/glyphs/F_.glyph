@@ -1,0 +1,19 @@
+{
+glyphname = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1929,0);
+ref = E;
+scale = (-1,1);
+}
+);
+width = 1929;
+}
+);
+note = uni0046;
+unicode = 70;
+}

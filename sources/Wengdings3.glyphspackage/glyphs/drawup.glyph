@@ -1,0 +1,19 @@
+{
+glyphname = drawup;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (25,111);
+ref = drawleft;
+}
+);
+width = 1234;
+}
+);
+note = drawup;
+unicode = 235;
+}

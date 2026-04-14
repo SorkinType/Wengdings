@@ -1,0 +1,19 @@
+{
+glyphname = Egrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1789,-173);
+ref = Adieresis;
+}
+);
+width = 2146;
+}
+);
+note = uni00C8;
+unicode = 200;
+}

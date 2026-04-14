@@ -1,0 +1,92 @@
+{
+glyphname = asciitilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(887,864,o),
+(992,998,o),
+(992,1366,cs),
+(992,1554,l),
+(979,1579,l),
+(604,1579,l),
+(604,1220,l),
+(799,1220,l),
+(799,1103,o),
+(778,1024,o),
+(604,1024,c),
+(604,864,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(378,864,o),
+(482,998,o),
+(482,1366,cs),
+(482,1554,l),
+(469,1579,l),
+(94,1579,l),
+(94,1220,l),
+(289,1220,l),
+(289,1103,o),
+(269,1024,o),
+(94,1024,c),
+(94,864,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 5 values pushed */
+11 571 10 1 571
+PUSHB[ ]	/* 3 values pushed */
+64 10 0
+PUSHW[ ]	/* 1 value pushed */
+625
+PUSHB[ ]	/* 3 values pushed */
+128 14 4
+PUSHW[ ]	/* 1 value pushed */
+344
+PUSHB[ ]	/* 3 values pushed */
+15 5 13
+PUSHW[ ]	/* 3 values pushed */
+322 17 343
+PUSHB[ ]	/* 3 values pushed */
+14 10 10
+PUSHW[ ]	/* 5 values pushed */
+598 3 322 7 343
+PUSHB[ ]	/* 2 values pushed */
+4 0
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[11101]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SMD[ ]	/* SetMinimumDistance */
+MIRP[11100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SMD[ ]	/* SetMinimumDistance */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1086;
+}
+);
+note = uni007E;
+unicode = 126;
+}

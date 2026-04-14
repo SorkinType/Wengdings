@@ -1,0 +1,19 @@
+{
+glyphname = igrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1788,0);
+ref = edieresis;
+scale = (-1,1);
+}
+);
+width = 1787;
+}
+);
+note = uni00EC;
+unicode = 236;
+}

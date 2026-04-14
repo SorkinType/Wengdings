@@ -1,0 +1,51 @@
+{
+glyphname = g5left;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(577,553,l),
+(1639,553,l),
+(1639,931,l),
+(577,931,l),
+(577,1130,l),
+(174,742,l),
+(577,354,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 5 values pushed */
+0 6 1 145 2
+PUSHW[ ]	/* 1 value pushed */
+299
+NPUSHB[ ]	/* 10 values pushed */
+5 145 6 2 6 6 2 4 91 0
+PUSHW[ ]	/* 2 values pushed */
+-6 0
+MDAP[1]	/* MoveDirectAbsPt */
+SHPIX[ ]	/* ShiftZoneByPixel */
+MIRP[01101]	/* MoveIndirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[10100]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = g5left;
+unicode = 171;
+}

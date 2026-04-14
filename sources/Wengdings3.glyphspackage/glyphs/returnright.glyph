@@ -1,0 +1,19 @@
+{
+glyphname = returnright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2011,0);
+ref = returnleft;
+scale = (-1,1);
+}
+);
+width = 2010;
+}
+);
+note = returnright;
+unicode = 65;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = egrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2187,0);
+ref = ccedilla;
+scale = (-1,1);
+}
+);
+width = 2186;
+}
+);
+note = uni00E8;
+unicode = 232;
+}

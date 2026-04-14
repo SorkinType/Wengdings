@@ -1,0 +1,19 @@
+{
+glyphname = drawdown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1209,1073);
+ref = drawleft;
+}
+);
+width = 1234;
+}
+);
+note = drawdown;
+unicode = 236;
+}

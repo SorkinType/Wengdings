@@ -1,0 +1,19 @@
+{
+glyphname = ntilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (90,1653);
+ref = idieresis;
+}
+);
+width = 1660;
+}
+);
+note = uni00F1;
+unicode = 241;
+}

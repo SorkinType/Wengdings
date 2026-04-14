@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = thumbbackdwn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1382,1480);
+ref = thumbbackup;
+}
+);
+width = 1381;
+}
+);
+note = thumbbackdwn;
+unicode = 61;
+}

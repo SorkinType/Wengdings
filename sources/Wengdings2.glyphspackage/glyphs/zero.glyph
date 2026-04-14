@@ -1,0 +1,116 @@
+{
+color = 5;
+glyphname = zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(728,269,o),
+(597,449,o),
+(597,740,cs),
+(597,1031,o),
+(728,1211,o),
+(913,1211,cs),
+(1098,1211,o),
+(1229,1031,o),
+(1229,740,cs),
+(1229,449,o),
+(1098,269,o),
+(913,269,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1060,334,o),
+(1096,526,o),
+(1096,740,cs),
+(1096,954,o),
+(1060,1146,o),
+(913,1146,cs),
+(766,1146,o),
+(730,954,o),
+(730,740,cs),
+(730,526,o),
+(766,334,o),
+(913,334,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1323,0,o),
+(1653,330,o),
+(1653,740,cs),
+(1653,1150,o),
+(1323,1480,o),
+(913,1480,cs),
+(503,1480,o),
+(173,1150,o),
+(173,740,cs),
+(173,330,o),
+(503,0,o),
+(913,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(559,101,o),
+(274,386,o),
+(274,740,cs),
+(274,1094,o),
+(559,1379,o),
+(913,1379,cs),
+(1267,1379,o),
+(1552,1094,o),
+(1552,740,cs),
+(1552,386,o),
+(1267,101,o),
+(913,101,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 20 values pushed */
+39 124 33 127 21 200 3 123 9 45 124 27 127 15 200 9 0 36 245 24
+PUSHW[ ]	/* 1 value pushed */
+575
+PUSHB[ ]	/* 8 values pushed */
+18 127 6 140 0 42 245 30
+PUSHW[ ]	/* 1 value pushed */
+575
+PUSHB[ ]	/* 4 values pushed */
+12 127 0 100
+SCVTCI[ ]	/* SetCVTCutIn */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+MIRP[10110]	/* MoveIndirectRelPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1826;
+}
+);
+note = zero;
+unicode = 105;
+}

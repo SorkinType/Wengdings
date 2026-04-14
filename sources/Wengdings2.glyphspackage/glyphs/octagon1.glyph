@@ -1,0 +1,48 @@
+{
+color = 5;
+glyphname = octagon1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1185,83,l),
+(1569,468,l),
+(1569,1012,l),
+(1185,1397,l),
+(640,1397,l),
+(256,1012,l),
+(256,468,l),
+(640,83,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 6 values pushed */
+0 1 4 5 4 2
+PUSHW[ ]	/* 1 value pushed */
+388
+PUSHB[ ]	/* 7 values pushed */
+7 2 3 6 7 4 5
+PUSHW[ ]	/* 2 values pushed */
+612 0
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1825;
+}
+);
+note = octagon1;
+unicode = 196;
+}

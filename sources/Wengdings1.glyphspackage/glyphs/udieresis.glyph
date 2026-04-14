@@ -1,0 +1,58 @@
+{
+glyphname = udieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(672,401,l),
+(888,826,o),
+(1054,1042,o),
+(1533,1518,c),
+(1481,1565,l),
+(987,1182,o),
+(756,942,o),
+(531,578,c),
+(575,554,l),
+(495,751,o),
+(406,881,o),
+(350,881,cs),
+(282,881,o),
+(180,820,o),
+(148,759,c),
+(237,748,o),
+(386,501,o),
+(463,237,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 8 values pushed */
+15 1 4 13 15 18 5 0
+PUSHW[ ]	/* 1 value pushed */
+610
+PUSHB[ ]	/* 7 values pushed */
+7 0 4 7 18 4 1
+PUSHW[ ]	/* 2 values pushed */
+595 13
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */";
+};
+width = 1609;
+}
+);
+note = uni00FC;
+unicode = 252;
+}
