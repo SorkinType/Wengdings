@@ -1,5 +1,5 @@
 {
-.appVersion = "3523";
+.appVersion = "3524";
 .formatVersion = 3;
 customParameters = (
 {
@@ -35,8 +35,8 @@ tag = slng;
 );
 }
 );
-date = "2026-03-23 01:55:23 +0000";
-familyName = "Whendings 3";
+date = "2026-03-21 17:25:02 +0000";
+familyName = "Wengdings 3";
 featurePrefixes = (
 {
 automatic = 1;
@@ -1772,6 +1772,28 @@ trianglecentup
 There’s something seriously wrong with this char? ";
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2026 The Wengdings Project Authors (https://github.com/SorkinType/Wengdings)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Mirko Velimirovic, Eben Sorkin";
+}
+);
+},
+{
+key = designerURL;
+value = tbd;
+},
+{
 key = familyNames;
 values = (
 {
@@ -1785,9 +1807,13 @@ key = licenses;
 values = (
 {
 language = ENG;
-value = "fix this";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -1797,6 +1823,14 @@ language = ENG;
 value = STC;
 }
 );
+},
+{
+key = manufacturerURL;
+value = tbd;
+},
+{
+key = vendorID;
+value = "New Value";
 }
 );
 settings = {
@@ -1804,6 +1838,6 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
 unitsPerEm = 2048;
-versionMajor = 0;
-versionMinor = 1;
+versionMajor = 1;
+versionMinor = 0;
 }

@@ -1,0 +1,18 @@
+
+sources:
+  - Wengdings1.glyphspackage
+
+
+familyName: "Wengdings 1"
+
+buildVariable: false
+# buildStatic: true
+# buildTTF: true
+buildOTF: false
+# buildSmallCap: false
+
+# The next flags control autohinting.
+# autohintTTF: true
+# autohintOTF: false
+# ttfaUseScript: false  # Set this to true if your font is not Latin
+
