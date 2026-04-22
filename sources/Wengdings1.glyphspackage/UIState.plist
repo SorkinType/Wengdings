@@ -6,6 +6,7 @@ displayStrings = (
 "\010",
 "Á",
 E,
-N
+N,
+"ÿ"
 );
 }
