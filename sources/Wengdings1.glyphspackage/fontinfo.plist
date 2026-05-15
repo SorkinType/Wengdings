@@ -1,5 +1,5 @@
 {
-.appVersion = "3524";
+.appVersion = "3525";
 .formatVersion = 3;
 customParameters = (
 {
@@ -41,7 +41,7 @@ value = (
 }
 );
 date = "2026-03-21 17:25:02 +0000";
-familyName = "Wengdings 1";
+familyName = "Whengdings 1";
 fontMaster = (
 {
 customParameters = (
@@ -136,7 +136,7 @@ key = postscriptFullNames;
 values = (
 {
 language = ENG;
-value = Wengdings;
+value = Whengdings;
 }
 );
 },
