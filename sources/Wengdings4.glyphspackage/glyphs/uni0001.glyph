@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = uni0001;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(896,0,l),
+(896,1238,l),
+(128,1238,l),
+(128,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(280,1076,l),
+(744,1076,l),
+(744,148,l),
+(280,148,l)
+);
+}
+);
+width = 1024;
+}
+);
+unicode = 1;
+}

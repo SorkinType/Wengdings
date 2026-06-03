@@ -1,0 +1,29 @@
+{
+color = 5;
+glyphname = eight;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1070,578,l),
+(445,1139,l),
+(445,12,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1775,578,l),
+(1154,1139,l),
+(1154,12,l)
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 56;
+}

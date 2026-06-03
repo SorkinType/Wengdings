@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = less;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1589,73,l),
+(1589,1203,l),
+(459,1203,l),
+(459,73,l)
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 60;
+}

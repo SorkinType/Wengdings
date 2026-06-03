@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1400,12,l),
+(1400,1139,l),
+(1128,1139,l),
+(1128,12,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(920,12,l),
+(920,1139,l),
+(648,1139,l),
+(648,12,l)
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 59;
+}

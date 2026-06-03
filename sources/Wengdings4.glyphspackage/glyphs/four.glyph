@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1515,578,l),
+(894,1139,l),
+(894,12,l)
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 52;
+}

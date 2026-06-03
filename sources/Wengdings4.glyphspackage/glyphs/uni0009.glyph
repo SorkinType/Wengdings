@@ -1,0 +1,11 @@
+{
+color = 0;
+glyphname = uni0009;
+layers = (
+{
+layerId = m01;
+width = 1024;
+}
+);
+unicode = 9;
+}

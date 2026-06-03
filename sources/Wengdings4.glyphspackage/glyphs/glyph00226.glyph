@@ -1,0 +1,10 @@
+{
+color = 5;
+glyphname = glyph00226;
+layers = (
+{
+layerId = m01;
+width = 1024;
+}
+);
+}
